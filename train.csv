@@ -1,0 +1,701 @@
+ID_Pesanan,Jenis_Kelamin,Jarak_km,Cuaca,Tingkat_Kemacetan,Waktu,Tipe_Kendaraan,Waktu_Persiapan_menit,Metode_Pembayaran,Tahun_Masuk,Total_Pesanan,Harga_Makanan,Menggunakan_Voucher,Biaya_Pengiriman,Nama_Penerima,Alamat_Penerima,No_Telp_Penerima,Status,Waktu_Pengiriman_menit
+667,Perempuan,5.3,Cerah,Rendah,Sore,Sepeda,16,Non-Tunai,2020,3.0,,Tidak,9000,Dedi,Jl. Fatmawati No.7,089079402237,Selesai,32
+130,Perempuan,10.46,Cerah,,Sore,Sepeda,25,Non-Tunai,2022,3.0,,Tidak,7000,Lisa,Jl. Fatmawati No.7,087758884119,Selesai,68
+785,Perempuan,4.04,Hujan,Tinggi,Sore,Sepeda,14,Non-Tunai,2019,5.0,,Tidak,7000,Agus,Jl. Fatmawati No.7,087148403189,Selesai,39
+153,Perempuan,3.33,,Sedang,Sore,Skuter,24,Non-Tunai,2023,1.0,,Iya,10000,Agus,Jl. Thamrin No.12,086796568839,Selesai,44
+921,Perempuan,17.44,,Rendah,Malam,Mobil,23,Tunai,2025,1.0,50000.0,Tidak,7500,Nina,Jl. Diponegoro No.20,089591013220,Selesai,85
+946,Perempuan,0.71,Hujan,Rendah,Pagi,Mobil,25,Tunai,2017,4.0,,Iya,5500,Andi,Jl. Thamrin No.12,089982166236,Selesai,31
+49,Laki-laki,11.16,Berkabut,Sedang,Siang,Mobil,21,Tunai,2021,1.0,,Iya,6000,Lisa,Jl. Rasuna Said No.3,087491173978,Selesai,77
+16,Laki-laki,4.08,Berangin,Sedang,Siang,Sepeda,7,Non-Tunai,2025,1.0,,Iya,10000,Rian,Jl. Fatmawati No.7,082620262196,Selesai,33
+773,Perempuan,2.99,Berkabut,Tinggi,Siang,Sepeda,9,Non-Tunai,2020,3.0,20000.0,Iya,7500,Budi,Jl. Rasuna Said No.3,083159141565,Selesai,90
+121,Laki-laki,16.25,Berkabut,Tinggi,Pagi,Sepeda,10,Tunai,2020,2.0,,Tidak,6000,Agus,Jl. Sudirman No.15,086339112151,Selesai,91
+171,Laki-laki,13.71,Hujan,Sedang,Sore,Sepeda,22,Non-Tunai,2016,1.0,25500.0,Iya,9500,Agus,Jl. Thamrin No.12,085399865232,Selesai,64
+653,Perempuan,11.94,Cerah,Rendah,Sore,Sepeda,20,Non-Tunai,2022,3.0,,Iya,8000,Dedi,Jl. Sudirman No.15,086208393426,Selesai,69
+27,Perempuan,4.39,Berkabut,Sedang,Malam,Sepeda,12,Tunai,2017,5.0,100000.0,Tidak,10000,Lisa,Jl. Thamrin No.12,085764700533,Selesai,38
+806,Laki-laki,14.86,,Tinggi,Malam,Skuter,15,Tunai,2021,4.0,100000.0,Iya,7000,Agus,Jl. Fatmawati No.7,083306504784,Selesai,91
+274,Laki-laki,18.31,Cerah,Sedang,Siang,Sepeda,25,Tunai,2022,4.0,50000.0,Iya,5000,Agus,Jl. Rasuna Said No.3,084587913615,Selesai,79
+997,Perempuan,18.39,Berangin,Rendah,Siang,Sepeda,24,Non-Tunai,2019,3.0,,Iya,9000,Andi,Jl. Gatot Subroto No.8,083578422505,Selesai,74
+588,Perempuan,3.01,Cerah,Sedang,Sore,Sepeda,14,Non-Tunai,2021,1.0,50000.0,Tidak,9500,Maya,Jl. Diponegoro No.20,080800137540,Selesai,26
+188,Perempuan,11.33,Cerah,Sedang,Siang,Skuter,29,Non-Tunai,2018,3.0,,Iya,8000,Nina,Jl. Fatmawati No.7,082605239375,Selesai,77
+692,Laki-laki,8.8,Hujan,Sedang,Siang,Sepeda,6,Non-Tunai,2023,1.0,,Tidak,6500,Siti,Jl. Gatot Subroto No.8,087709925609,Selesai,38
+213,Perempuan,13.21,Cerah,,Pagi,Skuter,12,Non-Tunai,2021,5.0,50000.0,Tidak,8000,Dedi,Jl. Diponegoro No.20,084020085701,Selesai,63
+127,Perempuan,16.45,,Sedang,Sore,Skuter,25,Tunai,2022,1.0,,Tidak,5500,Siti,Jl. Thamrin No.12,085685120306,Selesai,87
+487,Laki-laki,1.39,Cerah,Sedang,Siang,Sepeda,15,Non-Tunai,2021,5.0,,Tidak,6000,Siti,Jl. Ahmad Yani No.5,080893318769,Selesai,24
+706,Laki-laki,19.8,Cerah,Tinggi,Sore,Sepeda,7,Non-Tunai,2022,,40000.0,Tidak,10000,Dedi,Jl. Rasuna Said No.3,087163050241,Selesai,88
+204,Laki-laki,18.02,Cerah,,Sore,Mobil,12,Tunai,2022,1.0,75000.0,Iya,6500,Lisa,Jl. Rasuna Said No.3,080440886050,Selesai,77
+66,Laki-laki,11.08,Bersalju,Sedang,Pagi,Sepeda,9,Tunai,2025,4.0,75000.0,Tidak,7500,Agus,Jl. Thamrin No.12,081585388053,Selesai,57
+32,Perempuan,3.83,Hujan,Sedang,Siang,Sepeda,12,Tunai,2016,4.0,75000.0,Iya,6000,Dedi,Jl. Thamrin No.12,083008963551,Selesai,30
+352,Laki-laki,17.2,Hujan,Tinggi,Siang,Skuter,14,Tunai,2023,4.0,50000.0,Tidak,6000,Andi,Jl. Fatmawati No.7,089322575550,Selesai,94
+459,Perempuan,1.6,Cerah,Sedang,Sore,Sepeda,14,Non-Tunai,2017,3.0,75000.0,Iya,8500,Andi,Jl. Fatmawati No.7,086037833163,Selesai,24
+270,Laki-laki,6.23,Cerah,Sedang,Sore,Mobil,20,Non-Tunai,2024,5.0,,Tidak,7500,Dedi,Jl. Ahmad Yani No.5,083784100871,Selesai,51
+832,Perempuan,9.32,Hujan,Sedang,Sore,Skuter,24,Non-Tunai,2023,5.0,,Iya,5000,Budi,Jl. Sudirman No.15,087787444290,Selesai,71
+553,Perempuan,11.26,Berkabut,Tinggi,Siang,Sepeda,14,Tunai,2023,1.0,,Iya,10000,Lisa,Jl. Merdeka No.10,082817431025,Selesai,70
+73,Perempuan,0.61,Cerah,Rendah,Siang,Skuter,10,Non-Tunai,2025,,,Iya,7500,Rina,Jl. Gatot Subroto No.8,080616207326,Selesai,16
+158,Laki-laki,15.35,Berkabut,Rendah,Pagi,Mobil,5,Tunai,2022,3.0,,Iya,8500,Nina,Jl. Ahmad Yani No.5,088470419584,Selesai,56
+883,Perempuan,0.88,Hujan,Rendah,Malam,Mobil,27,Non-Tunai,2023,3.0,,Tidak,7500,Nina,Jl. Thamrin No.12,086361480709,Selesai,37
+170,Laki-laki,12.02,Cerah,Rendah,Siang,Sepeda,26,Tunai,2025,3.0,,Iya,7500,Budi,Jl. Gatot Subroto No.8,086608960095,Selesai,63
+614,Perempuan,2.09,Cerah,Sedang,Sore,Sepeda,5,Tunai,2020,2.0,50000.0,Tidak,5500,Siti,Jl. Sudirman No.15,087366389067,Selesai,16
+652,Laki-laki,10.97,Cerah,Rendah,Siang,Skuter,27,Tunai,2022,5.0,,Iya,5000,Dedi,Jl. Diponegoro No.20,087388881251,Selesai,51
+809,Laki-laki,9.29,Cerah,Sedang,Pagi,Sepeda,17,Non-Tunai,2023,5.0,,Iya,9000,Lisa,Jl. Thamrin No.12,084936816107,Selesai,49
+863,Perempuan,10.73,Cerah,,Siang,Sepeda,7,Tunai,2020,1.0,,Tidak,8000,Lisa,Jl. Fatmawati No.7,084846820337,Selesai,57
+821,Laki-laki,16.16,Cerah,Tinggi,Siang,Sepeda,11,Tunai,2024,5.0,20000.0,Iya,7500,Budi,Jl. Sudirman No.15,080805421713,Selesai,82
+712,Laki-laki,12.11,Cerah,Sedang,Sore,Sepeda,28,Tunai,2025,3.0,75000.0,Iya,9500,Andi,Jl. Gatot Subroto No.8,088762792576,Selesai,75
+765,Laki-laki,1.15,Cerah,Rendah,Siang,Skuter,26,Tunai,2021,3.0,75000.0,Tidak,8500,Maya,Jl. Thamrin No.12,086072144610,Selesai,30
+582,Laki-laki,19.61,Cerah,Tinggi,Sore,Sepeda,8,Tunai,2019,1.0,,Tidak,5000,Andi,Jl. Merdeka No.10,082750376633,Selesai,72
+414,Perempuan,11.68,Cerah,,Siang,Skuter,25,Tunai,2018,5.0,,Tidak,9000,Budi,Jl. Merdeka No.10,089656614141,Selesai,70
+156,Laki-laki,5.22,Bersalju,Rendah,Sore,Sepeda,11,Tunai,2016,1.0,40000.0,Tidak,9500,Rina,Jl. Sudirman No.15,083216132752,Selesai,40
+604,Perempuan,2.23,Cerah,Rendah,Pagi,Sepeda,7,Tunai,2019,4.0,,Iya,7500,Agus,Jl. Fatmawati No.7,084414409648,Selesai,14
+428,Laki-laki,17.81,Berangin,Tinggi,Sore,Sepeda,21,Non-Tunai,2021,4.0,75000.0,Iya,7500,Maya,Jl. Sudirman No.15,083578905394,Selesai,122
+128,Laki-laki,17.28,Cerah,Rendah,Pagi,Mobil,28,Non-Tunai,2022,5.0,25500.0,Tidak,5500,Rina,Jl. Thamrin No.12,087547201388,Selesai,72
+616,Perempuan,18.46,Hujan,Rendah,Pagi,Sepeda,19,Tunai,2016,5.0,,Tidak,6500,Rian,Jl. Merdeka No.10,089859999569,Selesai,94
+930,Perempuan,5.53,Cerah,Rendah,Pagi,Mobil,10,Tunai,2017,1.0,,Tidak,5000,Nina,Jl. Ahmad Yani No.5,081848999691,Selesai,27
+150,Perempuan,5.93,Berkabut,Tinggi,,Skuter,27,Tunai,2024,3.0,,Iya,5500,Budi,Jl. Ahmad Yani No.5,087552201516,Selesai,106
+157,Perempuan,13.61,Cerah,Rendah,,Skuter,12,Tunai,2023,4.0,,Tidak,9500,Budi,Jl. Ahmad Yani No.5,080422751933,Selesai,43
+466,Perempuan,7.81,Cerah,Rendah,Sore,Sepeda,11,Non-Tunai,2021,3.0,,Tidak,6000,Dedi,Jl. Thamrin No.12,085397300406,Selesai,42
+400,Laki-laki,15.21,Bersalju,Sedang,Siang,Sepeda,20,Tunai,2016,2.0,,Tidak,9000,Rina,Jl. Ahmad Yani No.5,087946402897,Selesai,90
+528,Perempuan,5.83,Cerah,Tinggi,Sore,Mobil,27,Tunai,2016,4.0,20000.0,Iya,6500,Agus,Jl. Sudirman No.15,086004797295,Selesai,56
+347,Laki-laki,12.88,Cerah,Sedang,Pagi,Skuter,8,Tunai,2020,2.0,,Tidak,7000,Budi,Jl. Fatmawati No.7,084456310192,Selesai,52
+518,Laki-laki,16.31,Berkabut,Sedang,Siang,Mobil,14,Tunai,2018,4.0,100000.0,Tidak,9000,Lisa,Jl. Thamrin No.12,088296874898,Selesai,71
+812,Laki-laki,16.86,Bersalju,Sedang,Siang,Mobil,13,Non-Tunai,2021,1.0,,Iya,7000,Rina,Jl. Thamrin No.12,081424032182,Selesai,88
+735,Laki-laki,7.5,Cerah,Tinggi,Pagi,Sepeda,29,Non-Tunai,2024,2.0,100000.0,Iya,9500,Agus,Jl. Gatot Subroto No.8,080186520170,Selesai,66
+241,Perempuan,18.84,Berkabut,Sedang,Siang,Skuter,25,Tunai,2017,,,Iya,9500,Dedi,Jl. Ahmad Yani No.5,083613981632,Selesai,88
+936,Perempuan,5.81,Berkabut,Rendah,Siang,Sepeda,25,Non-Tunai,2017,1.0,,Tidak,7500,Agus,Jl. Diponegoro No.20,088953338133,Selesai,51
+24,Laki-laki,7.64,Berangin,Rendah,Siang,Mobil,10,Tunai,2017,3.0,,Tidak,6500,Andi,Jl. Thamrin No.12,082310991618,Selesai,31
+237,Perempuan,5.98,Berkabut,Tinggi,Pagi,Sepeda,14,Tunai,2019,1.0,,Tidak,10000,Lisa,Jl. Thamrin No.12,080868313589,Selesai,44
+825,Perempuan,10.98,Hujan,Rendah,Pagi,Skuter,10,Non-Tunai,2019,4.0,,Iya,7000,Andi,Jl. Rasuna Said No.3,081961075095,Selesai,55
+658,Perempuan,7.58,Cerah,Tinggi,Siang,Skuter,19,Non-Tunai,2016,2.0,50000.0,Iya,5500,Maya,Jl. Merdeka No.10,085140851466,Selesai,57
+624,Laki-laki,9.95,Berangin,Tinggi,Sore,Skuter,21,Non-Tunai,2020,2.0,,Tidak,8500,Nina,Jl. Sudirman No.15,085947142978,Selesai,72
+994,Perempuan,12.01,Cerah,Rendah,Pagi,Skuter,26,Non-Tunai,2019,3.0,,Tidak,8500,Lisa,Jl. Rasuna Said No.3,088197042077,Selesai,57
+499,Laki-laki,19.5,Cerah,Tinggi,Pagi,Sepeda,18,Tunai,2023,4.0,,Tidak,7500,Andi,Jl. Merdeka No.10,089605186875,Selesai,73
+108,Laki-laki,15.23,Bersalju,Tinggi,Pagi,Sepeda,5,Non-Tunai,2025,4.0,,Iya,9500,Budi,Jl. Ahmad Yani No.5,080272955255,Selesai,62
+488,Laki-laki,5.98,Hujan,Tinggi,Pagi,Sepeda,21,Non-Tunai,2023,1.0,75000.0,Tidak,8500,Lisa,Jl. Rasuna Said No.3,088134166701,Selesai,60
+960,Laki-laki,14.89,Bersalju,Tinggi,Pagi,Skuter,17,Tunai,2019,5.0,,Iya,7500,Budi,Jl. Fatmawati No.7,088707043789,Selesai,87
+101,Laki-laki,1.11,Cerah,Tinggi,Pagi,Skuter,22,Non-Tunai,2017,1.0,40000.0,Tidak,6500,Lisa,Jl. Diponegoro No.20,080499036983,Selesai,35
+246,Laki-laki,18.6,Hujan,Sedang,Pagi,Mobil,28,Non-Tunai,2016,3.0,,Iya,7000,Nina,Jl. Ahmad Yani No.5,081050066172,Selesai,77
+771,Perempuan,2.66,Cerah,Rendah,Siang,Sepeda,16,Non-Tunai,2017,1.0,25500.0,Iya,9000,Dedi,Jl. Diponegoro No.20,088044766075,Selesai,21
+502,Perempuan,10.95,Cerah,Sedang,Sore,Skuter,24,Tunai,2021,3.0,,Tidak,6000,Andi,Jl. Sudirman No.15,088010141854,Selesai,55
+951,Laki-laki,12.21,Cerah,Tinggi,Pagi,Sepeda,9,Tunai,2021,3.0,,Iya,10000,Rian,Jl. Rasuna Said No.3,087920754052,Selesai,57
+865,Laki-laki,8.31,Berangin,Sedang,Pagi,Sepeda,6,Tunai,2020,5.0,,Tidak,6000,Nina,Jl. Rasuna Said No.3,088294445769,Selesai,44
+60,Perempuan,6.84,Hujan,Sedang,Malam,Mobil,14,Non-Tunai,2017,3.0,,Iya,6000,Agus,Jl. Gatot Subroto No.8,080194562729,Selesai,47
+176,Laki-laki,3.9,Hujan,Tinggi,Pagi,Mobil,25,Non-Tunai,2016,3.0,,Iya,6000,Maya,Jl. Fatmawati No.7,088793597006,Selesai,54
+577,Perempuan,3.37,Cerah,Tinggi,Pagi,Sepeda,9,Tunai,2025,1.0,,Iya,5500,Dedi,Jl. Ahmad Yani No.5,082910818864,Selesai,28
+208,Laki-laki,13.44,Cerah,,Sore,Skuter,9,Tunai,2020,2.0,,Iya,5500,Agus,Jl. Sudirman No.15,080066173279,Selesai,55
+663,Perempuan,12.31,Berangin,Rendah,Pagi,Sepeda,29,Non-Tunai,2021,2.0,,Tidak,5500,Rian,Jl. Thamrin No.12,084213426769,Selesai,68
+10,Perempuan,14.31,Cerah,Sedang,Pagi,Sepeda,9,Non-Tunai,2017,4.0,,Iya,6000,Dedi,Jl. Diponegoro No.20,082991546246,Selesai,47
+867,Perempuan,3.53,Cerah,Sedang,Siang,Sepeda,13,Non-Tunai,2018,1.0,,Iya,7000,Agus,Jl. Rasuna Said No.3,087896951845,Selesai,31
+729,Laki-laki,4.43,Berkabut,Rendah,Pagi,Skuter,10,Non-Tunai,2024,3.0,,Tidak,5000,Rian,Jl. Ahmad Yani No.5,081630189275,Selesai,63
+592,Laki-laki,13.0,Berangin,Tinggi,Pagi,Sepeda,22,Tunai,2017,2.0,,Iya,5500,Rina,Jl. Fatmawati No.7,084143015555,Selesai,65
+436,Perempuan,14.17,Cerah,Rendah,Siang,Sepeda,8,Non-Tunai,2025,2.0,,Tidak,6500,Dedi,Jl. Merdeka No.10,080271384502,Selesai,55
+326,Perempuan,14.89,Cerah,Tinggi,Sore,Mobil,22,Non-Tunai,2016,,,Tidak,7000,Rina,Jl. Diponegoro No.20,083914492069,Selesai,88
+387,Laki-laki,6.0,Bersalju,Rendah,Pagi,Mobil,20,Tunai,2017,2.0,,Iya,5500,Andi,Jl. Fatmawati No.7,080556370128,Selesai,53
+486,Laki-laki,18.07,Cerah,Tinggi,Siang,Skuter,5,Non-Tunai,2023,5.0,25500.0,Tidak,7000,Nina,Jl. Thamrin No.12,089769325348,Selesai,67
+793,Perempuan,10.36,Hujan,Sedang,Siang,Sepeda,7,Tunai,2017,2.0,,Tidak,8500,Dedi,Jl. Rasuna Said No.3,082695900921,Selesai,39
+874,Perempuan,8.47,Berkabut,Sedang,Sore,Sepeda,24,Non-Tunai,2025,2.0,25500.0,Tidak,7000,Lisa,Jl. Thamrin No.12,089414399333,Selesai,68
+862,Laki-laki,9.34,Hujan,Rendah,Sore,Mobil,10,Tunai,2025,1.0,,Iya,8000,Nina,Jl. Diponegoro No.20,085761218222,Selesai,40
+908,Perempuan,7.17,Cerah,Rendah,Siang,Sepeda,15,Tunai,2018,3.0,40000.0,Iya,5500,Maya,Jl. Gatot Subroto No.8,085152639307,Selesai,32
+815,Perempuan,17.46,Cerah,Sedang,Pagi,Skuter,6,Non-Tunai,2025,4.0,,Tidak,7500,Agus,Jl. Rasuna Said No.3,089042024751,Selesai,62
+183,Perempuan,18.53,Hujan,Rendah,Siang,Skuter,8,Non-Tunai,2017,2.0,20000.0,Iya,6000,Siti,Jl. Merdeka No.10,082779600551,Selesai,57
+608,Laki-laki,7.6,Berkabut,Rendah,Pagi,Sepeda,16,Non-Tunai,2021,4.0,100000.0,Tidak,7000,Siti,Jl. Fatmawati No.7,084187535187,Selesai,48
+754,Perempuan,7.03,Cerah,Rendah,Sore,Skuter,21,Tunai,2024,3.0,,Iya,9000,Dedi,Jl. Gatot Subroto No.8,089959433218,Selesai,44
+210,Laki-laki,3.64,Berangin,Tinggi,Sore,Sepeda,17,Non-Tunai,2019,4.0,40000.0,Iya,8000,Lisa,Jl. Merdeka No.10,084339695324,Selesai,40
+889,Laki-laki,2.44,Bersalju,Tinggi,Sore,Sepeda,13,Tunai,2016,3.0,25500.0,Iya,5000,Siti,Jl. Rasuna Said No.3,086842619248,Selesai,39
+124,Perempuan,2.65,,Sedang,Siang,Mobil,14,Non-Tunai,2021,5.0,40000.0,Tidak,5500,Siti,Jl. Rasuna Said No.3,083359007269,Selesai,35
+275,Perempuan,10.47,Cerah,Tinggi,Sore,Skuter,14,Non-Tunai,2018,2.0,100000.0,Tidak,9000,Maya,Jl. Diponegoro No.20,085345882987,Selesai,55
+601,Perempuan,3.79,Cerah,Sedang,Pagi,Sepeda,13,Tunai,2023,5.0,,Iya,5000,Rian,Jl. Fatmawati No.7,083358546157,Selesai,34
+520,Laki-laki,3.43,Berangin,Sedang,Pagi,Sepeda,7,Tunai,2019,1.0,25500.0,Tidak,9000,Maya,Jl. Diponegoro No.20,089788275868,Selesai,23
+226,Perempuan,5.26,Hujan,Sedang,Sore,Skuter,28,Non-Tunai,2017,4.0,,Tidak,9500,Rina,Jl. Ahmad Yani No.5,080806521731,Selesai,51
+375,Perempuan,1.89,Cerah,Sedang,Sore,Skuter,13,Non-Tunai,2018,4.0,,Tidak,8500,Siti,Jl. Merdeka No.10,088513060888,Selesai,22
+864,Laki-laki,9.09,Hujan,Sedang,Pagi,Sepeda,6,Tunai,2018,3.0,,Tidak,9500,Andi,Jl. Gatot Subroto No.8,084038667115,Selesai,43
+59,Laki-laki,1.38,Cerah,Sedang,Pagi,Mobil,6,Non-Tunai,2022,4.0,,Tidak,10000,Siti,Jl. Ahmad Yani No.5,089140761221,Selesai,17
+315,Laki-laki,16.8,,Tinggi,Pagi,Mobil,19,Non-Tunai,2021,3.0,40000.0,Tidak,5500,Andi,Jl. Rasuna Said No.3,083626569931,Selesai,85
+983,Perempuan,2.58,Cerah,Sedang,Pagi,Skuter,25,Non-Tunai,2018,5.0,50000.0,Tidak,9500,Andi,Jl. Diponegoro No.20,080640957372,Selesai,37
+631,Laki-laki,14.41,Bersalju,Sedang,Sore,Sepeda,8,Non-Tunai,2017,2.0,,Iya,9500,Rian,Jl. Diponegoro No.20,089610853568,Selesai,75
+691,Laki-laki,6.81,Cerah,Sedang,Sore,Sepeda,23,Non-Tunai,2023,1.0,,Tidak,5000,Dedi,Jl. Fatmawati No.7,086605188801,Selesai,47
+88,Laki-laki,12.93,Cerah,Sedang,Pagi,Skuter,20,Tunai,2017,3.0,,Tidak,8500,Nina,Jl. Merdeka No.10,089414014311,Selesai,58
+945,Perempuan,4.53,Bersalju,Sedang,Pagi,Skuter,18,Tunai,2021,4.0,,Iya,8000,Rina,Jl. Sudirman No.15,086502234007,Selesai,49
+999,Laki-laki,19.03,Cerah,Rendah,Siang,Mobil,26,Non-Tunai,2020,5.0,,Iya,8000,Rina,Jl. Sudirman No.15,089579227118,Selesai,68
+355,Perempuan,1.88,Cerah,Sedang,Pagi,Skuter,24,Tunai,2018,1.0,100000.0,Tidak,6000,Andi,Jl. Fatmawati No.7,084959020834,Selesai,35
+846,Laki-laki,8.59,Cerah,Rendah,Sore,Sepeda,22,Non-Tunai,2023,2.0,,Iya,7500,Maya,Jl. Ahmad Yani No.5,087918812261,Selesai,43
+309,Laki-laki,16.01,Cerah,Rendah,Siang,Mobil,12,Non-Tunai,2021,,,Iya,9000,Siti,Jl. Rasuna Said No.3,085177534971,Selesai,72
+845,Perempuan,3.4,Berangin,Sedang,Pagi,Sepeda,11,Tunai,2019,3.0,,Tidak,7000,Nina,Jl. Diponegoro No.20,087087819804,Selesai,30
+363,Perempuan,9.44,Hujan,,Sore,Skuter,28,Non-Tunai,2017,1.0,,Iya,9000,Lisa,Jl. Sudirman No.15,086566072330,Selesai,63
+725,Perempuan,11.7,Hujan,Rendah,Siang,Sepeda,17,Tunai,2020,2.0,,Tidak,9000,Budi,Jl. Rasuna Said No.3,086254773393,Selesai,60
+368,Laki-laki,18.15,Berangin,Sedang,Pagi,Sepeda,11,Tunai,2023,1.0,50000.0,Tidak,8500,Andi,Jl. Ahmad Yani No.5,083761934329,Selesai,89
+464,Laki-laki,11.88,Hujan,Sedang,Siang,Sepeda,5,Tunai,2024,1.0,40000.0,Iya,9000,Dedi,Jl. Rasuna Said No.3,089053799450,Selesai,63
+732,Perempuan,16.38,Hujan,Sedang,Malam,Sepeda,7,Non-Tunai,2025,3.0,,Iya,5500,Rina,Jl. Diponegoro No.20,085937198184,Selesai,90
+964,Perempuan,8.09,Cerah,Tinggi,Siang,Skuter,15,Tunai,2021,4.0,100000.0,Tidak,5000,Rina,Jl. Sudirman No.15,085536295290,Selesai,51
+350,Perempuan,12.7,Cerah,Rendah,Pagi,Skuter,22,Tunai,2023,3.0,25500.0,Tidak,6000,Rina,Jl. Ahmad Yani No.5,089059408334,Selesai,57
+791,Laki-laki,3.49,Cerah,Sedang,Pagi,Sepeda,17,Non-Tunai,2023,3.0,,Tidak,9500,Nina,Jl. Diponegoro No.20,087423101137,Selesai,38
+583,Perempuan,10.11,Hujan,,Siang,Skuter,23,Non-Tunai,2023,1.0,50000.0,Tidak,5500,Rian,Jl. Thamrin No.12,082882918507,Selesai,63
+139,Perempuan,7.59,Cerah,,Siang,Skuter,16,Tunai,2022,4.0,,Tidak,6000,Agus,Jl. Fatmawati No.7,082008775936,Selesai,37
+557,Laki-laki,3.11,Hujan,Sedang,Pagi,Skuter,21,Tunai,2024,2.0,,Tidak,5500,Nina,Jl. Gatot Subroto No.8,085018015612,Selesai,43
+744,Laki-laki,10.3,Cerah,Rendah,Pagi,Mobil,12,Non-Tunai,2018,2.0,50000.0,Iya,5500,Maya,Jl. Rasuna Said No.3,083760692003,Selesai,41
+48,Laki-laki,10.64,Cerah,Sedang,Siang,Skuter,14,Tunai,2020,2.0,,Iya,9500,Rian,Jl. Rasuna Said No.3,080006173345,Selesai,45
+869,Perempuan,17.3,Cerah,Rendah,Sore,Skuter,9,Non-Tunai,2025,2.0,50000.0,Iya,5000,Rina,Jl. Sudirman No.15,081860186553,Selesai,67
+107,Laki-laki,8.5,Cerah,Tinggi,Sore,Mobil,13,Non-Tunai,2022,4.0,,Tidak,7500,Dedi,Jl. Rasuna Said No.3,084725310917,Selesai,54
+94,Perempuan,11.44,Hujan,Sedang,Sore,Mobil,20,Non-Tunai,2023,2.0,,Tidak,5500,Agus,Jl. Ahmad Yani No.5,084330258047,Selesai,57
+31,Perempuan,12.35,Cerah,Rendah,Pagi,Skuter,10,Non-Tunai,2019,5.0,,Tidak,6500,Dedi,Jl. Diponegoro No.20,081306500669,Selesai,35
+893,Perempuan,16.69,Berkabut,Sedang,Sore,Skuter,8,Tunai,2023,4.0,,Tidak,6000,Budi,Jl. Ahmad Yani No.5,083851429913,Selesai,65
+332,Laki-laki,15.28,Bersalju,Rendah,Sore,Sepeda,16,Non-Tunai,2020,4.0,50000.0,Tidak,5000,Lisa,Jl. Thamrin No.12,081091206141,Selesai,72
+236,Laki-laki,14.59,Cerah,Sedang,Pagi,Sepeda,15,Non-Tunai,2019,1.0,20000.0,Iya,5500,Budi,Jl. Ahmad Yani No.5,087567149593,Selesai,64
+591,Laki-laki,3.21,Hujan,Tinggi,Malam,Skuter,16,Non-Tunai,2025,1.0,,Iya,5500,Andi,Jl. Merdeka No.10,083136460629,Selesai,42
+300,Laki-laki,2.16,Bersalju,Rendah,Sore,Skuter,15,Non-Tunai,2025,5.0,20000.0,Iya,7500,Siti,Jl. Fatmawati No.7,089137096564,Selesai,36
+78,Perempuan,1.94,Hujan,Sedang,Pagi,Sepeda,16,Tunai,2025,3.0,,Iya,7500,Lisa,Jl. Diponegoro No.20,086672933398,Selesai,35
+198,Perempuan,17.99,Berangin,Tinggi,Sore,Sepeda,5,Tunai,2024,5.0,,Tidak,8500,Lisa,Jl. Sudirman No.15,084390283582,Selesai,73
+798,Perempuan,11.52,,Sedang,Pagi,Skuter,25,Non-Tunai,2023,4.0,,Tidak,5500,Andi,Jl. Gatot Subroto No.8,083906881952,Selesai,58
+296,Laki-laki,10.68,Cerah,Rendah,Pagi,Sepeda,14,Tunai,2024,5.0,,Iya,7500,Lisa,Jl. Ahmad Yani No.5,080309465325,Selesai,42
+390,Laki-laki,16.23,Cerah,Sedang,Sore,Sepeda,6,Non-Tunai,2025,1.0,,Tidak,10000,Rian,Jl. Fatmawati No.7,083775727272,Selesai,54
+541,Laki-laki,19.1,Bersalju,Sedang,Pagi,Sepeda,25,Tunai,2019,5.0,50000.0,Iya,9500,Budi,Jl. Gatot Subroto No.8,086092853591,Selesai,90
+307,Perempuan,10.57,Bersalju,Rendah,Siang,Sepeda,28,Non-Tunai,2016,2.0,20000.0,Iya,10000,Lisa,Jl. Merdeka No.10,088084039640,Selesai,59
+575,Laki-laki,17.32,Cerah,Rendah,Sore,Skuter,10,Tunai,2022,4.0,,Iya,6500,Nina,Jl. Gatot Subroto No.8,089945360868,Selesai,77
+149,Laki-laki,1.5,Berkabut,Sedang,Sore,Skuter,15,Tunai,2021,2.0,40000.0,Tidak,7500,Dedi,Jl. Rasuna Said No.3,083803763306,Selesai,32
+966,Laki-laki,7.44,Hujan,Sedang,Sore,Sepeda,6,Tunai,2024,2.0,75000.0,Iya,6500,Lisa,Jl. Rasuna Said No.3,083020625099,Selesai,39
+61,Perempuan,8.08,Berkabut,Rendah,Pagi,Sepeda,25,Tunai,2023,1.0,,Iya,6000,Nina,Jl. Gatot Subroto No.8,082415503254,Selesai,61
+770,Laki-laki,16.51,Cerah,Sedang,Pagi,Sepeda,7,Tunai,2024,4.0,,Tidak,8500,Budi,Jl. Fatmawati No.7,083284286400,Selesai,79
+273,Perempuan,17.41,Bersalju,Sedang,Sore,Sepeda,20,Non-Tunai,2021,1.0,,Tidak,8500,Siti,Jl. Diponegoro No.20,087931553722,Selesai,80
+993,Perempuan,5.81,Hujan,Sedang,Sore,Sepeda,14,Non-Tunai,2017,5.0,50000.0,Tidak,10000,Siti,Jl. Diponegoro No.20,081346934396,Selesai,41
+599,Laki-laki,4.25,Cerah,Rendah,Siang,Sepeda,5,Tunai,2021,4.0,25500.0,Tidak,8000,Nina,Jl. Sudirman No.15,087162187091,Selesai,22
+568,Laki-laki,9.03,Cerah,Rendah,,Sepeda,11,Tunai,2020,4.0,25500.0,Iya,8500,Andi,Jl. Sudirman No.15,081903912802,Selesai,43
+298,Laki-laki,4.71,Cerah,Rendah,Pagi,Sepeda,20,Non-Tunai,2019,1.0,,Iya,10000,Nina,Jl. Rasuna Said No.3,081619595365,Selesai,31
+297,Perempuan,15.51,Cerah,Rendah,Sore,Sepeda,17,Non-Tunai,2016,1.0,,Iya,8500,Rian,Jl. Merdeka No.10,083410780540,Selesai,69
+764,Perempuan,15.01,Cerah,Sedang,Pagi,Sepeda,15,Non-Tunai,2019,3.0,,Iya,8500,Andi,Jl. Diponegoro No.20,083667918440,Selesai,64
+155,Perempuan,19.72,Hujan,Rendah,Siang,Sepeda,27,Tunai,2019,1.0,,Iya,9500,Maya,Jl. Gatot Subroto No.8,086538777003,Selesai,109
+982,Laki-laki,15.53,Berkabut,Rendah,Sore,Sepeda,26,Tunai,2018,5.0,50000.0,Iya,9000,Budi,Jl. Ahmad Yani No.5,081319343087,Selesai,68
+842,Laki-laki,13.44,Cerah,Sedang,Pagi,Mobil,22,Non-Tunai,2024,3.0,100000.0,Iya,7000,Andi,Jl. Ahmad Yani No.5,080532735147,Selesai,79
+195,Laki-laki,7.11,Cerah,Rendah,Siang,Skuter,27,Non-Tunai,2025,2.0,,Iya,6000,Lisa,Jl. Thamrin No.12,086727001059,Selesai,48
+593,Laki-laki,4.05,Cerah,Sedang,Siang,Skuter,21,Tunai,2020,4.0,,Tidak,6000,Rina,Jl. Merdeka No.10,081472638054,Selesai,39
+422,Perempuan,15.9,Hujan,Rendah,Sore,Mobil,19,Tunai,2020,1.0,,Iya,7000,Agus,Jl. Rasuna Said No.3,089217508917,Selesai,78
+8,Perempuan,17.39,Berkabut,Sedang,Pagi,Sepeda,25,Non-Tunai,2021,4.0,75000.0,Iya,5000,Agus,Jl. Merdeka No.10,084426105449,Selesai,100
+304,Laki-laki,12.93,Hujan,Rendah,Siang,Skuter,25,Tunai,2025,3.0,,Tidak,10000,Maya,Jl. Ahmad Yani No.5,089896428002,Selesai,61
+449,Laki-laki,7.84,Berangin,Rendah,Siang,Sepeda,6,Non-Tunai,2021,1.0,,Tidak,10000,Agus,Jl. Rasuna Said No.3,085493301681,Selesai,28
+595,Laki-laki,17.99,Bersalju,Rendah,Siang,Sepeda,15,Tunai,2022,3.0,,Iya,7500,Rina,Jl. Merdeka No.10,080544387549,Selesai,63
+581,Perempuan,9.45,Cerah,Rendah,Siang,Mobil,13,Non-Tunai,2025,3.0,,Tidak,8500,Budi,Jl. Gatot Subroto No.8,081268965919,Selesai,49
+594,Perempuan,7.24,Cerah,Sedang,Siang,Sepeda,28,Non-Tunai,2018,4.0,25500.0,Iya,9500,Siti,Jl. Merdeka No.10,081966578141,Selesai,57
+529,Laki-laki,1.6,Berkabut,Rendah,Malam,Skuter,24,Tunai,2025,4.0,50000.0,Iya,9000,Dedi,Jl. Rasuna Said No.3,086631935019,Selesai,37
+467,Laki-laki,6.07,,Rendah,Siang,Sepeda,18,Tunai,2021,3.0,,Tidak,5500,Budi,Jl. Rasuna Said No.3,083634462400,Selesai,35
+43,Perempuan,1.17,Cerah,Sedang,Pagi,Sepeda,16,Non-Tunai,2016,4.0,100000.0,Tidak,8000,Rina,Jl. Rasuna Said No.3,083572637555,Selesai,25
+451,Perempuan,15.65,Cerah,Rendah,Siang,Sepeda,27,Tunai,2025,3.0,50000.0,Iya,7500,Andi,Jl. Rasuna Said No.3,084280698206,Selesai,76
+399,Laki-laki,15.14,Hujan,Sedang,Pagi,Sepeda,8,Non-Tunai,2019,4.0,,Tidak,6500,Rian,Jl. Diponegoro No.20,087000267600,Selesai,66
+6,Laki-laki,3.54,Hujan,Sedang,Sore,Sepeda,10,Tunai,2020,5.0,,Iya,9000,Dedi,Jl. Thamrin No.12,083278667526,Selesai,32
+578,Laki-laki,18.57,Hujan,Sedang,Siang,Sepeda,16,Tunai,2018,1.0,75000.0,Iya,8000,Rina,Jl. Ahmad Yani No.5,084585872126,Selesai,89
+404,Perempuan,16.62,Bersalju,Rendah,Siang,Sepeda,26,Non-Tunai,2017,4.0,,Tidak,6500,Maya,Jl. Ahmad Yani No.5,083928895384,Selesai,94
+427,Laki-laki,9.11,Cerah,Rendah,Siang,Sepeda,19,Non-Tunai,2019,1.0,20000.0,Tidak,6500,Budi,Jl. Gatot Subroto No.8,080595251066,Selesai,42
+751,Laki-laki,2.78,Hujan,Rendah,,Sepeda,21,Tunai,2021,2.0,,Tidak,10000,Lisa,Jl. Ahmad Yani No.5,082386990529,Selesai,37
+74,Laki-laki,16.4,Cerah,Tinggi,Pagi,Skuter,12,Non-Tunai,2023,2.0,40000.0,Iya,8500,Rian,Jl. Diponegoro No.20,083532228051,Selesai,70
+834,Perempuan,3.94,Bersalju,Rendah,Siang,Sepeda,19,Tunai,2022,2.0,,Tidak,9000,Budi,Jl. Sudirman No.15,084986418951,Selesai,43
+728,Perempuan,16.01,Berangin,Rendah,Pagi,Mobil,28,Non-Tunai,2025,2.0,,Tidak,8000,Nina,Jl. Fatmawati No.7,088266300977,Selesai,84
+216,Laki-laki,5.13,Cerah,Rendah,Pagi,Mobil,15,Tunai,2021,3.0,,Iya,5500,Maya,Jl. Sudirman No.15,085188964439,Selesai,30
+132,Perempuan,4.83,Cerah,Rendah,Sore,Sepeda,11,Tunai,2024,4.0,,Iya,6500,Nina,Jl. Diponegoro No.20,087374186224,Selesai,29
+29,Perempuan,12.05,Cerah,Rendah,Sore,Skuter,29,Tunai,2021,3.0,20000.0,Tidak,5500,Lisa,Jl. Merdeka No.10,081722487886,Selesai,61
+647,Laki-laki,12.08,Cerah,Tinggi,Siang,Skuter,16,Tunai,2021,3.0,20000.0,Iya,6500,Nina,Jl. Diponegoro No.20,083961659268,Selesai,60
+920,Laki-laki,3.23,Cerah,Rendah,,Sepeda,7,Non-Tunai,2018,3.0,,Tidak,9500,Siti,Jl. Sudirman No.15,083891837470,Selesai,14
+244,Perempuan,7.72,Berkabut,Tinggi,Sore,Sepeda,19,Tunai,2021,5.0,75000.0,Tidak,6500,Siti,Jl. Ahmad Yani No.5,086877411618,Selesai,64
+795,Laki-laki,0.85,Cerah,Sedang,Pagi,Sepeda,9,Non-Tunai,2017,3.0,,Iya,5500,Lisa,Jl. Fatmawati No.7,088119314966,Selesai,17
+580,Perempuan,5.54,Hujan,Sedang,,Skuter,28,Tunai,2016,1.0,,Tidak,7000,Budi,Jl. Fatmawati No.7,084184355153,Selesai,51
+79,Laki-laki,7.49,Cerah,,Pagi,Skuter,13,Non-Tunai,2016,5.0,,Iya,9000,Maya,Jl. Gatot Subroto No.8,087841386888,Selesai,45
+828,Perempuan,7.27,Berangin,Rendah,Siang,Sepeda,10,Non-Tunai,2020,5.0,25500.0,Tidak,9500,Dedi,Jl. Merdeka No.10,085586021686,Selesai,35
+52,Perempuan,15.62,Hujan,Sedang,Siang,Skuter,23,Non-Tunai,2018,1.0,20000.0,Iya,6500,Budi,Jl. Sudirman No.15,084181744283,Selesai,78
+723,Perempuan,1.8,Cerah,,Malam,Sepeda,14,Non-Tunai,2024,2.0,100000.0,Tidak,5000,Maya,Jl. Ahmad Yani No.5,087152139960,Selesai,28
+496,Perempuan,7.39,Hujan,Sedang,Pagi,Skuter,25,Non-Tunai,2019,5.0,20000.0,Iya,6000,Maya,Jl. Ahmad Yani No.5,085423413682,Selesai,60
+713,Perempuan,9.7,Bersalju,Rendah,Sore,Sepeda,6,Non-Tunai,2025,3.0,50000.0,Iya,6000,Lisa,Jl. Rasuna Said No.3,087105833109,Selesai,45
+590,Laki-laki,3.46,Bersalju,Sedang,Pagi,Skuter,23,Non-Tunai,2022,1.0,,Iya,7500,Lisa,Jl. Fatmawati No.7,088722154999,Selesai,48
+948,Perempuan,18.05,Cerah,Sedang,Sore,Skuter,10,Non-Tunai,2018,3.0,,Iya,5000,Rian,Jl. Merdeka No.10,087857584507,Selesai,123
+435,Perempuan,2.14,Cerah,Tinggi,Sore,Sepeda,18,Non-Tunai,2022,,40000.0,Tidak,8500,Andi,Jl. Sudirman No.15,084119542935,Selesai,34
+263,Laki-laki,3.23,Cerah,Tinggi,Siang,Sepeda,17,Tunai,2016,4.0,,Iya,7000,Nina,Jl. Sudirman No.15,083716414291,Selesai,33
+269,Perempuan,7.51,Hujan,Rendah,Sore,Mobil,27,Non-Tunai,2019,4.0,75000.0,Iya,9500,Siti,Jl. Diponegoro No.20,082471477421,Selesai,50
+643,Laki-laki,4.62,Hujan,Sedang,Siang,Mobil,8,Non-Tunai,2022,1.0,,Iya,7000,Siti,Jl. Thamrin No.12,086539465636,Selesai,33
+288,Laki-laki,11.08,Cerah,Rendah,Sore,Skuter,28,Non-Tunai,2023,2.0,40000.0,Tidak,5000,Budi,Jl. Sudirman No.15,088690577740,Selesai,58
+669,Perempuan,4.14,Cerah,Sedang,Pagi,Skuter,14,Tunai,2023,2.0,20000.0,Iya,8500,Nina,Jl. Thamrin No.12,082249624024,Selesai,30
+562,Laki-laki,4.65,Cerah,Sedang,Sore,Sepeda,21,Tunai,2024,5.0,40000.0,Tidak,5000,Siti,Jl. Thamrin No.12,081417305794,Selesai,46
+179,Laki-laki,18.77,Bersalju,Sedang,Sore,Sepeda,24,Tunai,2025,2.0,,Iya,7500,Rian,Jl. Rasuna Said No.3,089389366110,Selesai,115
+461,Laki-laki,2.79,Cerah,Tinggi,Pagi,Sepeda,23,Tunai,2018,3.0,100000.0,Iya,9000,Andi,Jl. Gatot Subroto No.8,081239239240,Selesai,38
+693,Laki-laki,10.4,Cerah,Rendah,Sore,Sepeda,16,Non-Tunai,2021,2.0,,Iya,5500,Rian,Jl. Thamrin No.12,089391896071,Selesai,52
+248,Laki-laki,19.35,Cerah,Tinggi,,Sepeda,12,Non-Tunai,2018,5.0,,Tidak,10000,Andi,Jl. Ahmad Yani No.5,084017695664,Selesai,75
+455,Laki-laki,2.67,Cerah,Sedang,Malam,Mobil,17,Tunai,2019,3.0,,Tidak,7500,Lisa,Jl. Gatot Subroto No.8,084510734552,Selesai,28
+207,Perempuan,2.48,Hujan,Rendah,Sore,Skuter,20,Non-Tunai,2017,3.0,,Iya,9000,Andi,Jl. Thamrin No.12,081174092934,Selesai,30
+831,Perempuan,4.88,Berangin,Sedang,Siang,Skuter,26,Tunai,2018,,20000.0,Iya,5000,Nina,Jl. Thamrin No.12,085894182403,Selesai,48
+312,Laki-laki,2.03,Berkabut,Tinggi,Sore,Mobil,14,Tunai,2021,4.0,,Tidak,5000,Budi,Jl. Thamrin No.12,088115047231,Selesai,36
+112,Laki-laki,3.64,Cerah,Rendah,Pagi,Skuter,16,Non-Tunai,2022,2.0,,Iya,9500,Siti,Jl. Sudirman No.15,089545118262,Selesai,26
+287,Perempuan,9.58,Cerah,Tinggi,Siang,Mobil,26,Non-Tunai,2017,1.0,,Tidak,5500,Siti,Jl. Thamrin No.12,084667028458,Selesai,60
+402,Perempuan,18.1,Cerah,Rendah,Pagi,Skuter,8,Tunai,2020,1.0,75000.0,Tidak,9000,Lisa,Jl. Gatot Subroto No.8,083334301351,Selesai,77
+721,Laki-laki,18.8,Cerah,Tinggi,Siang,Sepeda,23,Tunai,2018,1.0,75000.0,Iya,10000,Agus,Jl. Fatmawati No.7,082745493491,Selesai,95
+950,Laki-laki,12.15,Cerah,Tinggi,Pagi,Mobil,12,Non-Tunai,2019,3.0,20000.0,Iya,5000,Nina,Jl. Diponegoro No.20,085800266281,Selesai,63
+907,Perempuan,16.44,Berangin,Tinggi,Siang,Mobil,8,Non-Tunai,2025,2.0,,Iya,6500,Lisa,Jl. Rasuna Said No.3,083055022087,Selesai,80
+492,Perempuan,12.59,Cerah,Rendah,Sore,Skuter,10,Tunai,2023,2.0,40000.0,Tidak,5500,Budi,Jl. Diponegoro No.20,082347310007,Selesai,39
+838,Laki-laki,7.57,Cerah,Rendah,Pagi,Sepeda,21,Tunai,2025,2.0,100000.0,Iya,10000,Maya,Jl. Diponegoro No.20,088643604205,Selesai,56
+727,Perempuan,3.23,Hujan,Rendah,Pagi,Mobil,25,Non-Tunai,2018,1.0,75000.0,Tidak,7000,Nina,Jl. Thamrin No.12,084930549509,Selesai,42
+741,Perempuan,9.52,Berkabut,Rendah,Malam,Skuter,28,Non-Tunai,2024,1.0,50000.0,Tidak,7000,Dedi,Jl. Fatmawati No.7,081130156303,Selesai,59
+118,Laki-laki,4.14,Berkabut,Sedang,Pagi,Sepeda,21,Tunai,2025,5.0,25500.0,Iya,6000,Rian,Jl. Gatot Subroto No.8,085513329726,Selesai,46
+182,Perempuan,2.71,Cerah,Rendah,Pagi,Skuter,6,Non-Tunai,2024,4.0,,Iya,8000,Rian,Jl. Gatot Subroto No.8,081261157534,Selesai,20
+162,Laki-laki,12.83,Cerah,Sedang,Pagi,Sepeda,19,Tunai,2023,1.0,,Tidak,8000,Andi,Jl. Merdeka No.10,084644816671,Selesai,76
+154,Laki-laki,10.04,Hujan,Tinggi,Siang,Sepeda,12,Tunai,2016,3.0,,Iya,8500,Maya,Jl. Rasuna Said No.3,085268078042,Selesai,59
+395,Laki-laki,7.15,Cerah,Tinggi,Malam,Mobil,29,Non-Tunai,2018,1.0,,Tidak,10000,Dedi,Jl. Diponegoro No.20,084226509327,Selesai,60
+72,Perempuan,4.37,Cerah,Sedang,Sore,Skuter,6,Tunai,2018,1.0,,Tidak,5500,Budi,Jl. Rasuna Said No.3,088060752587,Selesai,25
+95,Laki-laki,15.53,Cerah,Rendah,Pagi,Sepeda,26,Tunai,2019,1.0,40000.0,Iya,5500,Dedi,Jl. Sudirman No.15,083355547790,Selesai,83
+928,Perempuan,11.06,Cerah,Tinggi,Sore,Sepeda,6,Tunai,2016,4.0,,Iya,9000,Agus,Jl. Merdeka No.10,086641683095,Selesai,53
+500,Perempuan,19.73,Berkabut,Sedang,Sore,Sepeda,27,Tunai,2021,5.0,20000.0,Tidak,5500,Lisa,Jl. Sudirman No.15,080873065238,Selesai,111
+140,Perempuan,19.45,Hujan,Tinggi,Pagi,Skuter,20,Tunai,2019,,40000.0,Iya,10000,Budi,Jl. Ahmad Yani No.5,087119948285,Selesai,108
+995,Perempuan,7.54,Bersalju,Rendah,Siang,Sepeda,20,Non-Tunai,2025,5.0,,Tidak,8500,Maya,Jl. Thamrin No.12,084225538839,Selesai,55
+748,Perempuan,11.1,Cerah,Rendah,Siang,Sepeda,18,Non-Tunai,2018,5.0,40000.0,Iya,8500,Nina,Jl. Diponegoro No.20,089853739498,Selesai,56
+657,Perempuan,6.03,Hujan,Tinggi,Siang,Mobil,8,Tunai,2019,1.0,,Tidak,5500,Andi,Jl. Diponegoro No.20,084151700446,Selesai,46
+630,Laki-laki,5.42,Cerah,Rendah,Sore,Skuter,11,Tunai,2016,3.0,,Iya,5000,Siti,Jl. Diponegoro No.20,088600685016,Selesai,26
+661,Perempuan,7.44,Hujan,Sedang,Siang,Skuter,5,Non-Tunai,2024,4.0,25500.0,Tidak,5500,Agus,Jl. Fatmawati No.7,082761086023,Selesai,37
+837,Perempuan,18.34,Cerah,Tinggi,Malam,Sepeda,9,Non-Tunai,2021,,,Iya,5000,Agus,Jl. Rasuna Said No.3,082315373847,Selesai,92
+325,Perempuan,19.12,Berangin,Tinggi,Sore,Mobil,8,Tunai,2025,2.0,,Tidak,8000,Rina,Jl. Ahmad Yani No.5,086932951067,Selesai,92
+847,Laki-laki,2.16,Cerah,Sedang,Malam,Mobil,10,Tunai,2024,2.0,50000.0,Tidak,6500,Lisa,Jl. Diponegoro No.20,082730812493,Selesai,23
+335,Perempuan,1.4,Berangin,Rendah,Sore,Sepeda,9,Tunai,2016,3.0,,Iya,7500,Nina,Jl. Thamrin No.12,089315078700,Selesai,17
+918,Perempuan,18.99,Hujan,Tinggi,Siang,Sepeda,10,Tunai,2019,1.0,,Tidak,7500,Siti,Jl. Diponegoro No.20,080877814631,Selesai,70
+286,Perempuan,1.2,Hujan,Rendah,Pagi,Skuter,24,Non-Tunai,2018,1.0,,Iya,5000,Lisa,Jl. Rasuna Said No.3,084218698333,Selesai,33
+40,Perempuan,9.08,Cerah,Rendah,Siang,Skuter,14,Non-Tunai,2020,3.0,50000.0,Tidak,10000,Budi,Jl. Diponegoro No.20,088328219188,Selesai,49
+319,Perempuan,3.55,Cerah,Sedang,Sore,Sepeda,23,Tunai,2025,2.0,50000.0,Iya,9000,Maya,Jl. Gatot Subroto No.8,087230207538,Selesai,43
+360,Laki-laki,11.72,Hujan,Rendah,Sore,Sepeda,11,Non-Tunai,2016,1.0,,Iya,5000,Siti,Jl. Thamrin No.12,085806281771,Selesai,42
+276,Perempuan,10.28,Cerah,Sedang,Sore,Skuter,29,Tunai,2022,2.0,,Iya,5000,Siti,Jl. Merdeka No.10,083094566937,Selesai,71
+615,Perempuan,17.53,Cerah,Rendah,Siang,Sepeda,14,Non-Tunai,2019,1.0,20000.0,Tidak,5000,Rina,Jl. Fatmawati No.7,087492084823,Selesai,79
+348,Perempuan,1.38,Cerah,Rendah,Pagi,Skuter,13,Non-Tunai,2016,2.0,,Tidak,9000,Rina,Jl. Thamrin No.12,089105176964,Selesai,17
+702,Perempuan,1.51,Cerah,Tinggi,Sore,Sepeda,26,Tunai,2024,4.0,,Iya,7500,Agus,Jl. Ahmad Yani No.5,085719532785,Selesai,44
+758,Laki-laki,10.9,Cerah,Tinggi,Siang,Skuter,6,Tunai,2017,4.0,,Tidak,9500,Rian,Jl. Merdeka No.10,083698961789,Selesai,47
+629,Perempuan,1.22,Cerah,Sedang,Sore,Skuter,6,Non-Tunai,2025,4.0,,Tidak,9500,Nina,Jl. Thamrin No.12,087781314181,Selesai,14
+23,Laki-laki,6.2,Berangin,Tinggi,Sore,Skuter,7,Non-Tunai,2022,1.0,,Tidak,10000,Agus,Jl. Sudirman No.15,081236196664,Selesai,42
+938,Perempuan,18.33,Berkabut,Sedang,Pagi,Skuter,19,Tunai,2025,3.0,,Iya,10000,Agus,Jl. Sudirman No.15,086064434663,Selesai,98
+776,Perempuan,3.42,Cerah,Sedang,Malam,Mobil,11,Non-Tunai,2016,2.0,75000.0,Iya,8000,Rian,Jl. Merdeka No.10,087765285168,Selesai,24
+679,Perempuan,19.4,Cerah,Rendah,Sore,Skuter,8,Tunai,2016,5.0,100000.0,Tidak,6500,Maya,Jl. Merdeka No.10,080157412788,Selesai,57
+416,Perempuan,9.24,Berangin,,Siang,Sepeda,8,Non-Tunai,2023,3.0,,Iya,6000,Siti,Jl. Diponegoro No.20,080932886296,Selesai,49
+105,Laki-laki,18.2,Berangin,Sedang,Pagi,Sepeda,27,Non-Tunai,2024,1.0,50000.0,Iya,6500,Dedi,Jl. Merdeka No.10,081735347575,Selesai,108
+89,Laki-laki,17.8,Berangin,Tinggi,Siang,Mobil,12,Tunai,2016,3.0,,Tidak,5000,Rian,Jl. Sudirman No.15,082530951285,Selesai,73
+799,Laki-laki,14.08,Cerah,Tinggi,Pagi,Sepeda,28,Tunai,2019,2.0,,Iya,5500,Rina,Jl. Sudirman No.15,085617021480,Selesai,66
+425,Laki-laki,1.62,Berangin,Rendah,Sore,Sepeda,9,Tunai,2017,5.0,,Tidak,8500,Andi,Jl. Fatmawati No.7,082666603826,Selesai,16
+63,Perempuan,16.66,Bersalju,Tinggi,Siang,Skuter,29,Non-Tunai,2018,2.0,,Tidak,6000,Budi,Jl. Fatmawati No.7,087983032661,Selesai,95
+646,Laki-laki,17.87,Bersalju,Rendah,Pagi,Skuter,29,Non-Tunai,2021,2.0,,Tidak,8000,Dedi,Jl. Gatot Subroto No.8,088279079813,Selesai,87
+239,Perempuan,13.09,Berangin,Rendah,,Skuter,17,Non-Tunai,2024,5.0,20000.0,Iya,7000,Budi,Jl. Rasuna Said No.3,086145410163,Selesai,69
+481,Laki-laki,12.77,Berkabut,Rendah,Pagi,Sepeda,22,Tunai,2017,3.0,,Iya,6000,Maya,Jl. Sudirman No.15,083023605677,Selesai,71
+146,Laki-laki,1.22,Berkabut,Tinggi,Siang,Skuter,14,Non-Tunai,2023,,40000.0,Iya,7500,Rina,Jl. Thamrin No.12,085157281427,Selesai,38
+877,Laki-laki,14.46,Hujan,Sedang,Pagi,Skuter,11,Non-Tunai,2016,5.0,,Iya,8500,Lisa,Jl. Gatot Subroto No.8,081192181813,Selesai,68
+535,Perempuan,15.5,Cerah,Sedang,Pagi,Skuter,28,Tunai,2016,5.0,,Iya,5000,Lisa,Jl. Merdeka No.10,086750342951,Selesai,91
+816,Laki-laki,10.62,Berangin,Sedang,Siang,Mobil,22,Non-Tunai,2020,5.0,,Tidak,7000,Andi,Jl. Rasuna Said No.3,089542800805,Selesai,54
+83,Laki-laki,6.95,Cerah,Sedang,Pagi,Skuter,25,Non-Tunai,2023,4.0,50000.0,Tidak,5500,Lisa,Jl. Diponegoro No.20,082334509559,Selesai,58
+341,Laki-laki,10.09,Cerah,Sedang,Sore,Sepeda,7,Tunai,2025,5.0,50000.0,Tidak,6000,Maya,Jl. Gatot Subroto No.8,083731522023,Selesai,49
+137,Perempuan,10.62,Berkabut,Rendah,Sore,Skuter,29,Tunai,2024,4.0,,Iya,10000,Rina,Jl. Sudirman No.15,080902173500,Selesai,73
+333,Perempuan,0.78,Cerah,Sedang,Pagi,Sepeda,6,Non-Tunai,2024,1.0,,Tidak,10000,Budi,Jl. Thamrin No.12,088920941258,Selesai,17
+256,Perempuan,11.36,Cerah,Sedang,Pagi,Skuter,8,Tunai,2023,2.0,100000.0,Iya,8500,Lisa,Jl. Ahmad Yani No.5,088956087020,Selesai,52
+67,Laki-laki,3.25,Cerah,Rendah,Pagi,Sepeda,23,Non-Tunai,2018,1.0,,Iya,9500,Andi,Jl. Diponegoro No.20,086520277519,Selesai,32
+377,Perempuan,16.98,Cerah,Rendah,,Sepeda,11,Tunai,2019,3.0,,Iya,9500,Rina,Jl. Merdeka No.10,080968806761,Selesai,78
+621,Perempuan,4.1,Cerah,Sedang,Sore,Mobil,18,Tunai,2022,3.0,,Iya,9000,Lisa,Jl. Ahmad Yani No.5,082914007491,Selesai,38
+804,Perempuan,12.33,Cerah,Tinggi,Malam,Sepeda,7,Non-Tunai,2023,1.0,,Tidak,8000,Lisa,Jl. Sudirman No.15,083537945338,Selesai,101
+334,Laki-laki,2.76,Berangin,Sedang,Pagi,Skuter,8,Non-Tunai,2020,2.0,,Tidak,7500,Agus,Jl. Fatmawati No.7,089402417110,Selesai,22
+947,Perempuan,3.17,Cerah,Sedang,Sore,Skuter,17,Tunai,2019,1.0,,Tidak,9000,Lisa,Jl. Gatot Subroto No.8,085455426579,Selesai,33
+142,Laki-laki,5.41,Cerah,Sedang,Malam,Sepeda,14,Tunai,2020,2.0,,Tidak,8500,Rina,Jl. Thamrin No.12,089478707741,Selesai,36
+854,Laki-laki,18.01,Berkabut,Tinggi,Malam,Sepeda,14,Non-Tunai,2023,1.0,,Tidak,9000,Maya,Jl. Thamrin No.12,084731849787,Selesai,71
+145,Laki-laki,6.05,Cerah,Sedang,Pagi,Mobil,24,Non-Tunai,2025,2.0,50000.0,Iya,8500,Budi,Jl. Sudirman No.15,089163273734,Selesai,48
+674,Perempuan,10.73,Berkabut,Rendah,Pagi,Sepeda,6,Non-Tunai,2019,2.0,50000.0,Tidak,5000,Lisa,Jl. Sudirman No.15,082994325725,Selesai,35
+351,Perempuan,10.31,Berkabut,Sedang,Pagi,Skuter,19,Tunai,2020,2.0,75000.0,Iya,5500,Agus,Jl. Fatmawati No.7,084220314251,Selesai,62
+876,Perempuan,3.54,Hujan,Sedang,Siang,Skuter,17,Tunai,2021,4.0,,Tidak,6500,Rina,Jl. Gatot Subroto No.8,080782714234,Selesai,41
+505,Laki-laki,13.85,Cerah,Rendah,Sore,Sepeda,29,Tunai,2020,3.0,75000.0,Tidak,9000,Budi,Jl. Rasuna Said No.3,080116010085,Selesai,71
+856,Perempuan,4.22,Cerah,Sedang,Pagi,Sepeda,16,Tunai,2018,2.0,75000.0,Tidak,7000,Nina,Jl. Merdeka No.10,080338664264,Selesai,35
+178,Laki-laki,8.04,Cerah,Sedang,Sore,Mobil,27,Non-Tunai,2025,4.0,25500.0,Iya,8500,Siti,Jl. Thamrin No.12,081832157593,Selesai,65
+391,Perempuan,19.81,Cerah,Rendah,Siang,Sepeda,27,Non-Tunai,2024,5.0,,Iya,7000,Rian,Jl. Gatot Subroto No.8,082844470793,Selesai,74
+136,Perempuan,6.8,Cerah,Tinggi,Sore,Sepeda,28,Non-Tunai,2020,1.0,,Iya,5500,Lisa,Jl. Gatot Subroto No.8,088362371355,Selesai,55
+526,Perempuan,9.64,Cerah,Rendah,Pagi,Sepeda,10,Non-Tunai,2020,5.0,100000.0,Iya,5000,Andi,Jl. Merdeka No.10,086226064095,Selesai,46
+316,Perempuan,14.07,Hujan,Rendah,Sore,Sepeda,10,Tunai,2020,2.0,,Tidak,7500,Maya,Jl. Thamrin No.12,085711011683,Selesai,63
+639,Perempuan,5.75,Berangin,Tinggi,Pagi,Skuter,7,Tunai,2021,5.0,,Iya,8500,Budi,Jl. Sudirman No.15,089790698256,Selesai,37
+514,Perempuan,17.39,Cerah,Sedang,Sore,Skuter,5,Non-Tunai,2019,5.0,,Iya,6500,Siti,Jl. Diponegoro No.20,083664610797,Selesai,46
+463,Perempuan,15.05,Cerah,Sedang,Sore,Mobil,12,Non-Tunai,2023,2.0,,Iya,8000,Maya,Jl. Merdeka No.10,084854432027,Selesai,66
+272,Perempuan,16.3,Berkabut,Rendah,Pagi,Mobil,12,Tunai,2024,4.0,,Iya,6000,Budi,Jl. Diponegoro No.20,085510140538,Selesai,100
+224,Laki-laki,7.67,Berangin,Rendah,Pagi,Mobil,9,Non-Tunai,2023,5.0,75000.0,Iya,5500,Nina,Jl. Rasuna Said No.3,081616759429,Selesai,31
+12,Perempuan,19.41,Berangin,Rendah,Pagi,Sepeda,11,Tunai,2017,1.0,20000.0,Iya,10000,Siti,Jl. Diponegoro No.20,089989863589,Selesai,62
+484,Perempuan,12.74,Cerah,Rendah,Malam,Skuter,18,Non-Tunai,2025,4.0,20000.0,Iya,9500,Dedi,Jl. Merdeka No.10,087828465099,Selesai,67
+259,Perempuan,11.62,Cerah,Rendah,Siang,Sepeda,9,Non-Tunai,2017,3.0,20000.0,Tidak,6000,Rina,Jl. Rasuna Said No.3,086329916819,Selesai,33
+567,Perempuan,8.15,Hujan,Rendah,Siang,Sepeda,26,Tunai,2023,4.0,100000.0,Iya,6000,Siti,Jl. Rasuna Said No.3,088870051739,Selesai,50
+1,Perempuan,7.8,Cerah,Rendah,Sore,Skuter,23,Tunai,2020,1.0,,Iya,9500,Rina,Jl. Rasuna Said No.3,081246113458,Selesai,52
+143,Laki-laki,10.2,Hujan,Sedang,Siang,Sepeda,18,Non-Tunai,2016,4.0,,Iya,6000,Rina,Jl. Gatot Subroto No.8,082474982448,Selesai,56
+14,Laki-laki,4.64,Cerah,Rendah,Siang,Sepeda,15,Tunai,2016,2.0,,Iya,10000,Dedi,Jl. Thamrin No.12,086721901688,Selesai,24
+305,Perempuan,14.66,Bersalju,Tinggi,Pagi,Mobil,5,Tunai,2019,5.0,25500.0,Iya,8500,Budi,Jl. Merdeka No.10,087253878881,Selesai,71
+859,Perempuan,11.51,Berkabut,Rendah,Siang,Mobil,5,Tunai,2018,4.0,,Iya,9000,Andi,Jl. Sudirman No.15,081200185745,Selesai,57
+559,Perempuan,15.23,Berkabut,Rendah,Pagi,Mobil,6,Non-Tunai,2025,1.0,75000.0,Tidak,6000,Rian,Jl. Sudirman No.15,087249922381,Selesai,52
+20,Laki-laki,6.18,Cerah,Sedang,Sore,Sepeda,9,Tunai,2016,3.0,50000.0,Tidak,8500,Maya,Jl. Thamrin No.12,083719441963,Selesai,35
+147,Perempuan,12.39,Bersalju,Sedang,Sore,Sepeda,14,Tunai,2017,2.0,20000.0,Tidak,8000,Siti,Jl. Sudirman No.15,088915695678,Selesai,56
+666,Laki-laki,3.48,Berkabut,Rendah,Siang,Skuter,9,Tunai,2024,5.0,40000.0,Iya,6000,Siti,Jl. Gatot Subroto No.8,085681064508,Selesai,31
+164,Perempuan,10.95,Bersalju,,Siang,Sepeda,9,Tunai,2024,5.0,,Tidak,9000,Maya,Jl. Thamrin No.12,080267956673,Selesai,65
+905,Perempuan,8.72,Bersalju,Sedang,Sore,Mobil,18,Tunai,2018,1.0,75000.0,Tidak,9000,Andi,Jl. Thamrin No.12,081013149259,Selesai,64
+896,Perempuan,4.5,Bersalju,Tinggi,Sore,Sepeda,24,Non-Tunai,2025,2.0,75000.0,Tidak,7000,Lisa,Jl. Diponegoro No.20,084425951837,Selesai,66
+203,Perempuan,3.65,Cerah,Sedang,Pagi,Sepeda,29,Tunai,2016,3.0,,Tidak,8500,Agus,Jl. Gatot Subroto No.8,081908163343,Selesai,46
+926,Laki-laki,0.94,Cerah,Tinggi,Pagi,Sepeda,9,Tunai,2019,2.0,,Tidak,6500,Agus,Jl. Sudirman No.15,080798298109,Selesai,21
+308,Perempuan,6.8,Berkabut,Sedang,Pagi,Skuter,13,Tunai,2018,4.0,,Iya,5500,Dedi,Jl. Gatot Subroto No.8,087475304597,Selesai,46
+823,Perempuan,7.0,Hujan,Sedang,Sore,Sepeda,17,Non-Tunai,2016,1.0,,Iya,9000,Rian,Jl. Ahmad Yani No.5,088199965670,Selesai,49
+483,Laki-laki,9.36,Hujan,Tinggi,Pagi,Skuter,17,Tunai,2023,1.0,,Iya,5500,Budi,Jl. Ahmad Yani No.5,083827995808,Selesai,65
+941,Laki-laki,5.84,Cerah,,Sore,Sepeda,21,Non-Tunai,2018,2.0,50000.0,Iya,9500,Rian,Jl. Rasuna Said No.3,083890276788,Selesai,35
+359,Laki-laki,18.83,Cerah,Sedang,Sore,Skuter,5,Tunai,2017,2.0,40000.0,Tidak,8500,Maya,Jl. Ahmad Yani No.5,089500848431,Selesai,69
+685,Perempuan,18.62,Cerah,Rendah,Sore,Skuter,27,Tunai,2019,4.0,,Iya,5000,Rina,Jl. Ahmad Yani No.5,084159776013,Selesai,75
+173,Laki-laki,10.49,Hujan,Rendah,Pagi,Sepeda,28,Tunai,2016,3.0,50000.0,Tidak,10000,Maya,Jl. Merdeka No.10,085418831668,Selesai,66
+44,Perempuan,18.23,Hujan,Rendah,Siang,Skuter,27,Non-Tunai,2016,2.0,100000.0,Tidak,5500,Budi,Jl. Sudirman No.15,080753741654,Selesai,86
+660,Perempuan,11.63,Cerah,Sedang,Malam,Skuter,29,Tunai,2018,,40000.0,Tidak,7500,Rina,Jl. Sudirman No.15,084828679760,Selesai,57
+996,Laki-laki,2.29,Hujan,Tinggi,Siang,Mobil,8,Non-Tunai,2017,1.0,,Iya,10000,Rina,Jl. Sudirman No.15,080480039505,Selesai,80
+551,Perempuan,10.64,Berangin,Rendah,Sore,Mobil,11,Non-Tunai,2016,1.0,40000.0,Iya,6000,Lisa,Jl. Diponegoro No.20,081870114495,Selesai,36
+531,Perempuan,16.35,Cerah,Sedang,Pagi,Sepeda,16,Non-Tunai,2025,4.0,,Iya,6000,Siti,Jl. Gatot Subroto No.8,088788502614,Selesai,66
+610,Laki-laki,13.96,Hujan,Rendah,Malam,Sepeda,5,Non-Tunai,2024,5.0,,Iya,8500,Maya,Jl. Rasuna Said No.3,080927009399,Selesai,42
+516,Laki-laki,1.01,Cerah,Tinggi,Malam,Sepeda,17,Non-Tunai,2018,1.0,,Iya,8500,Rina,Jl. Thamrin No.12,080063328314,Selesai,29
+522,Perempuan,7.93,Berangin,Rendah,Siang,Skuter,12,Tunai,2024,5.0,,Iya,5000,Rina,Jl. Rasuna Said No.3,085948184041,Selesai,43
+229,Laki-laki,17.89,Berangin,Rendah,,Sepeda,27,Tunai,2024,1.0,,Tidak,6000,Budi,Jl. Fatmawati No.7,085342162503,Selesai,101
+148,Perempuan,10.3,Hujan,Rendah,Sore,Sepeda,29,Non-Tunai,2025,4.0,40000.0,Iya,10000,Rina,Jl. Sudirman No.15,084653679941,Selesai,73
+826,Laki-laki,18.44,Hujan,Tinggi,Pagi,Sepeda,27,Non-Tunai,2018,3.0,50000.0,Iya,8500,Dedi,Jl. Fatmawati No.7,089828671441,Selesai,80
+977,Laki-laki,12.1,Cerah,Tinggi,Siang,Sepeda,11,Tunai,2025,2.0,40000.0,Tidak,7000,Agus,Jl. Fatmawati No.7,085238715901,Selesai,53
+623,Laki-laki,7.72,Hujan,Sedang,Pagi,Sepeda,11,Non-Tunai,2025,3.0,75000.0,Tidak,5000,Nina,Jl. Gatot Subroto No.8,087432168410,Selesai,36
+934,Perempuan,10.75,Hujan,Sedang,Pagi,Sepeda,8,Tunai,2019,1.0,,Iya,9000,Nina,Jl. Rasuna Said No.3,085792266937,Selesai,60
+619,Perempuan,16.22,Hujan,Tinggi,Sore,Sepeda,22,Tunai,2025,4.0,,Tidak,5500,Rian,Jl. Gatot Subroto No.8,080082927993,Selesai,102
+111,Perempuan,6.15,Berkabut,Rendah,Sore,Skuter,26,Tunai,2020,3.0,,Tidak,9500,Lisa,Jl. Gatot Subroto No.8,083125150852,Selesai,48
+560,Perempuan,12.6,Berangin,Sedang,Siang,Mobil,8,Tunai,2019,5.0,,Iya,6000,Agus,Jl. Sudirman No.15,088377258351,Selesai,58
+589,Laki-laki,3.0,Cerah,Rendah,Pagi,Skuter,29,Tunai,2024,4.0,25500.0,Tidak,6000,Rina,Jl. Fatmawati No.7,083116357330,Selesai,43
+19,Perempuan,8.92,Berangin,,Pagi,Sepeda,25,Non-Tunai,2021,4.0,,Iya,7500,Rian,Jl. Diponegoro No.20,080194301306,Selesai,62
+694,Perempuan,5.23,Cerah,Sedang,Pagi,Skuter,19,Non-Tunai,2021,4.0,,Tidak,8000,Agus,Jl. Merdeka No.10,081538130077,Selesai,37
+202,Perempuan,2.14,Cerah,Rendah,Siang,Sepeda,25,Non-Tunai,2024,5.0,100000.0,Iya,10000,Rian,Jl. Ahmad Yani No.5,080242579498,Selesai,36
+383,Laki-laki,12.76,Berangin,Tinggi,Pagi,Skuter,27,Non-Tunai,2025,4.0,75000.0,Iya,7500,Dedi,Jl. Diponegoro No.20,083849747124,Selesai,74
+167,Perempuan,6.76,Berkabut,Sedang,Malam,Sepeda,7,Tunai,2019,4.0,,Tidak,5000,Rian,Jl. Ahmad Yani No.5,080849230536,Selesai,42
+671,Laki-laki,3.88,Cerah,Sedang,Pagi,Sepeda,16,Tunai,2023,2.0,,Iya,6000,Dedi,Jl. Ahmad Yani No.5,084093287677,Selesai,35
+524,Perempuan,16.92,Cerah,Rendah,Pagi,Skuter,29,Non-Tunai,2025,4.0,,Tidak,8500,Nina,Jl. Diponegoro No.20,080650689954,Selesai,70
+252,Perempuan,8.01,Cerah,Tinggi,Pagi,Sepeda,8,Tunai,2019,3.0,25500.0,Tidak,6000,Rian,Jl. Diponegoro No.20,083109325694,Selesai,48
+544,Laki-laki,13.6,Cerah,Sedang,Siang,Sepeda,27,Non-Tunai,2025,3.0,,Iya,7500,Dedi,Jl. Rasuna Said No.3,083233431505,Selesai,87
+797,Laki-laki,18.68,Bersalju,Rendah,Siang,Sepeda,11,Non-Tunai,2017,4.0,25500.0,Tidak,5500,Budi,Jl. Fatmawati No.7,080437909743,Selesai,62
+850,Laki-laki,12.11,Hujan,Rendah,Pagi,Sepeda,9,Non-Tunai,2020,5.0,,Iya,9000,Andi,Jl. Ahmad Yani No.5,086301831591,Selesai,59
+542,Perempuan,12.32,Cerah,Sedang,Sore,Skuter,17,Non-Tunai,2021,4.0,,Tidak,5500,Siti,Jl. Diponegoro No.20,089550463651,Selesai,71
+434,Laki-laki,2.47,Hujan,Rendah,Siang,Mobil,22,Tunai,2019,5.0,,Tidak,7500,Nina,Jl. Ahmad Yani No.5,080106838073,Selesai,34
+343,Perempuan,3.88,Berkabut,Rendah,Sore,Mobil,27,Non-Tunai,2016,5.0,,Iya,5500,Lisa,Jl. Gatot Subroto No.8,083566550571,Selesai,42
+894,Perempuan,8.25,Cerah,Sedang,Siang,Sepeda,7,Tunai,2016,2.0,100000.0,Iya,8000,Rian,Jl. Rasuna Said No.3,088790190821,Selesai,28
+569,Laki-laki,18.13,Hujan,Tinggi,Sore,Sepeda,21,Tunai,2023,2.0,40000.0,Tidak,7000,Andi,Jl. Sudirman No.15,089932330767,Selesai,88
+321,Perempuan,11.21,Cerah,Tinggi,Siang,Skuter,23,Non-Tunai,2024,1.0,,Iya,8500,Budi,Jl. Gatot Subroto No.8,088904786819,Selesai,76
+56,Perempuan,18.48,Cerah,Sedang,Malam,Sepeda,8,Tunai,2025,2.0,,Tidak,10000,Agus,Jl. Diponegoro No.20,080987844951,Selesai,82
+586,Perempuan,5.18,Cerah,Sedang,Siang,Mobil,9,Tunai,2023,4.0,,Iya,10000,Agus,Jl. Diponegoro No.20,084758662116,Selesai,30
+866,Perempuan,11.41,Berangin,Sedang,Siang,Skuter,17,Non-Tunai,2021,5.0,,Iya,8000,Dedi,Jl. Fatmawati No.7,085703798187,Selesai,68
+903,Perempuan,4.04,Bersalju,Rendah,Malam,Sepeda,11,Tunai,2016,2.0,40000.0,Iya,10000,Agus,Jl. Diponegoro No.20,080195070187,Selesai,70
+649,Perempuan,15.89,Bersalju,Sedang,Siang,Mobil,15,Non-Tunai,2016,1.0,40000.0,Iya,6500,Rina,Jl. Thamrin No.12,081748859920,Selesai,91
+200,Perempuan,15.71,Cerah,Rendah,Siang,Skuter,28,Non-Tunai,2020,5.0,,Iya,7500,Nina,Jl. Merdeka No.10,082139314433,Selesai,69
+991,Perempuan,16.09,Bersalju,Rendah,Pagi,Mobil,13,Non-Tunai,2019,1.0,40000.0,Iya,8500,Nina,Jl. Fatmawati No.7,087369345209,Selesai,69
+840,Laki-laki,12.83,Cerah,Rendah,Sore,Sepeda,5,Tunai,2017,1.0,,Iya,9000,Andi,Jl. Thamrin No.12,081419830916,Selesai,50
+311,Perempuan,9.06,Cerah,Sedang,Sore,Sepeda,23,Non-Tunai,2021,2.0,,Iya,9000,Nina,Jl. Rasuna Said No.3,082670368025,Selesai,47
+489,Perempuan,19.03,Cerah,Sedang,Pagi,Skuter,8,Tunai,2017,1.0,25500.0,Iya,6500,Dedi,Jl. Diponegoro No.20,083472251147,Selesai,65
+45,Laki-laki,5.55,Berkabut,Tinggi,Sore,Sepeda,18,Tunai,2024,2.0,,Iya,8000,Maya,Jl. Fatmawati No.7,080243948290,Selesai,116
+990,Perempuan,16.47,Bersalju,Tinggi,Sore,Skuter,20,Non-Tunai,2016,3.0,,Tidak,10000,Andi,Jl. Rasuna Said No.3,083796230731,Selesai,75
+627,Laki-laki,9.52,Cerah,Rendah,,Sepeda,12,Non-Tunai,2024,2.0,40000.0,Tidak,9000,Maya,Jl. Fatmawati No.7,084854532481,Selesai,49
+642,Perempuan,6.78,Berkabut,Rendah,Malam,Sepeda,18,Non-Tunai,2019,4.0,,Iya,8500,Nina,Jl. Fatmawati No.7,083541652380,Selesai,42
+606,Perempuan,9.49,Hujan,Sedang,Pagi,Mobil,23,Tunai,2019,5.0,75000.0,Tidak,9500,Lisa,Jl. Thamrin No.12,080805019561,Selesai,53
+742,Perempuan,6.38,Bersalju,Rendah,Sore,Sepeda,16,Non-Tunai,2024,1.0,,Iya,9500,Andi,Jl. Rasuna Said No.3,084639965032,Selesai,111
+822,Laki-laki,0.59,Cerah,Rendah,Siang,Sepeda,21,Tunai,2025,2.0,,Iya,9000,Dedi,Jl. Merdeka No.10,085369178611,Selesai,27
+891,Perempuan,14.58,Cerah,Rendah,Sore,Sepeda,23,Tunai,2025,4.0,40000.0,Iya,7500,Andi,Jl. Gatot Subroto No.8,081198704078,Selesai,70
+193,Perempuan,18.06,Cerah,Sedang,Malam,Sepeda,9,Non-Tunai,2017,4.0,,Iya,6500,Rian,Jl. Fatmawati No.7,087531758855,Selesai,52
+915,Laki-laki,11.26,Cerah,Rendah,Malam,Sepeda,5,Non-Tunai,2019,5.0,,Iya,5000,Siti,Jl. Sudirman No.15,086258818691,Selesai,49
+988,Perempuan,8.98,Cerah,Sedang,Siang,Skuter,22,Non-Tunai,2017,2.0,,Tidak,6000,Rina,Jl. Sudirman No.15,083150988555,Selesai,105
+34,Laki-laki,19.0,Cerah,Tinggi,Pagi,Mobil,28,Tunai,2022,2.0,,Iya,9000,Dedi,Jl. Diponegoro No.20,083625184318,Selesai,96
+306,Perempuan,19.53,Berkabut,Rendah,Siang,Sepeda,11,Tunai,2019,4.0,50000.0,Iya,7000,Budi,Jl. Gatot Subroto No.8,080925669188,Selesai,87
+509,Laki-laki,19.02,Hujan,Tinggi,Sore,Skuter,22,Tunai,2024,2.0,,Tidak,8000,Agus,Jl. Thamrin No.12,086460800064,Selesai,106
+681,Perempuan,16.43,Cerah,Rendah,Sore,Sepeda,13,Tunai,2020,1.0,,Tidak,7000,Nina,Jl. Ahmad Yani No.5,082620323581,Selesai,56
+266,Perempuan,14.94,Cerah,Sedang,Pagi,Sepeda,11,Non-Tunai,2025,4.0,75000.0,Iya,10000,Rian,Jl. Diponegoro No.20,087802859547,Selesai,62
+122,Laki-laki,17.97,Berangin,Sedang,Pagi,Skuter,28,Tunai,2018,3.0,,Tidak,8000,Siti,Jl. Merdeka No.10,081176385465,Selesai,92
+411,Laki-laki,6.73,Cerah,Sedang,Siang,Sepeda,21,Tunai,2024,4.0,50000.0,Tidak,9000,Dedi,Jl. Fatmawati No.7,088858638291,Selesai,54
+138,Laki-laki,14.21,Cerah,Sedang,Sore,Sepeda,24,Tunai,2025,5.0,25500.0,Tidak,7500,Maya,Jl. Rasuna Said No.3,087536688042,Selesai,58
+97,Perempuan,10.69,Cerah,Sedang,Malam,Sepeda,25,Tunai,2016,,,Tidak,8000,Lisa,Jl. Sudirman No.15,082335805824,Selesai,67
+611,Laki-laki,1.27,Berkabut,Tinggi,Siang,Sepeda,25,Non-Tunai,2016,5.0,,Tidak,8500,Siti,Jl. Sudirman No.15,087463387512,Selesai,46
+169,Perempuan,1.3,Cerah,Sedang,Sore,Sepeda,22,Non-Tunai,2021,3.0,50000.0,Tidak,8000,Lisa,Jl. Fatmawati No.7,084608090088,Selesai,31
+39,Perempuan,13.84,Cerah,Rendah,Pagi,Skuter,18,Non-Tunai,2025,3.0,75000.0,Tidak,7500,Lisa,Jl. Fatmawati No.7,089937357360,Selesai,64
+618,Perempuan,5.9,Hujan,Rendah,Sore,Mobil,26,Non-Tunai,2016,5.0,,Iya,7500,Siti,Jl. Thamrin No.12,084753275028,Selesai,44
+695,Perempuan,2.74,Cerah,Tinggi,Siang,Sepeda,18,Tunai,2016,3.0,,Tidak,5000,Andi,Jl. Merdeka No.10,088499601547,Selesai,37
+971,Laki-laki,13.44,Cerah,Rendah,Malam,Sepeda,29,Tunai,2025,3.0,,Iya,5500,Lisa,Jl. Rasuna Said No.3,087344793299,Selesai,63
+820,Laki-laki,7.04,Cerah,Rendah,Siang,Sepeda,11,Tunai,2017,5.0,50000.0,Iya,6000,Agus,Jl. Thamrin No.12,087362223416,Selesai,38
+861,Perempuan,15.62,Bersalju,Tinggi,Sore,Skuter,26,Tunai,2023,1.0,,Tidak,9500,Rian,Jl. Rasuna Said No.3,083747608931,Selesai,81
+211,Laki-laki,11.2,Cerah,Sedang,Pagi,Sepeda,23,Non-Tunai,2025,1.0,25500.0,Tidak,5000,Rian,Jl. Gatot Subroto No.8,080488370783,Selesai,73
+418,Perempuan,6.91,Cerah,Rendah,Sore,Sepeda,27,Non-Tunai,2017,1.0,,Tidak,8000,Rina,Jl. Rasuna Said No.3,085217619166,Selesai,91
+447,Laki-laki,19.73,Hujan,Rendah,Sore,Sepeda,8,Tunai,2017,1.0,,Iya,9000,Andi,Jl. Sudirman No.15,081927535521,Selesai,64
+69,Perempuan,1.95,Cerah,Rendah,Pagi,Skuter,16,Non-Tunai,2023,4.0,,Iya,9000,Dedi,Jl. Sudirman No.15,081278820959,Selesai,23
+985,Laki-laki,14.7,Cerah,Sedang,Sore,Skuter,24,Non-Tunai,2020,2.0,,Iya,8500,Budi,Jl. Thamrin No.12,083704594399,Selesai,75
+892,Laki-laki,17.19,Cerah,Sedang,Siang,Sepeda,11,Non-Tunai,2017,4.0,,Iya,9500,Rina,Jl. Diponegoro No.20,088635945805,Selesai,76
+367,Perempuan,19.24,Bersalju,Rendah,,Sepeda,26,Tunai,2024,4.0,75000.0,Tidak,10000,Agus,Jl. Fatmawati No.7,080312873826,Selesai,114
+873,Perempuan,13.06,Hujan,Tinggi,Pagi,Sepeda,17,Tunai,2017,5.0,75000.0,Iya,7500,Nina,Jl. Diponegoro No.20,088113106867,Selesai,59
+880,Perempuan,4.83,Hujan,Rendah,Pagi,Mobil,25,Tunai,2016,4.0,40000.0,Tidak,7000,Siti,Jl. Rasuna Said No.3,089671683394,Selesai,47
+384,Laki-laki,17.61,Cerah,Sedang,Pagi,Skuter,19,Tunai,2022,4.0,75000.0,Iya,9500,Lisa,Jl. Gatot Subroto No.8,085558961600,Selesai,80
+223,Perempuan,2.33,,Rendah,Pagi,Mobil,6,Tunai,2024,1.0,,Iya,8500,Lisa,Jl. Diponegoro No.20,081615855139,Selesai,17
+206,Perempuan,0.68,Bersalju,Tinggi,Sore,Sepeda,29,Non-Tunai,2017,3.0,25500.0,Tidak,10000,Agus,Jl. Fatmawati No.7,085822934970,Selesai,50
+633,Laki-laki,10.48,Hujan,Rendah,Siang,Mobil,10,Tunai,2018,5.0,,Iya,6500,Rian,Jl. Rasuna Said No.3,085143847098,Selesai,45
+358,Laki-laki,11.92,Cerah,Rendah,Siang,Skuter,14,Non-Tunai,2021,1.0,,Tidak,6000,Dedi,Jl. Thamrin No.12,083043824751,Selesai,46
+734,Perempuan,10.7,Cerah,Tinggi,Siang,Mobil,8,Non-Tunai,2021,2.0,,Tidak,6500,Maya,Jl. Sudirman No.15,088580438106,Selesai,57
+740,Perempuan,7.85,Cerah,Rendah,Siang,Skuter,7,Tunai,2016,4.0,20000.0,Iya,5000,Andi,Jl. Sudirman No.15,083548344148,Selesai,34
+763,Perempuan,5.35,Cerah,Sedang,Siang,Skuter,24,Tunai,2019,3.0,,Tidak,6500,Nina,Jl. Gatot Subroto No.8,080253259999,Selesai,43
+849,Laki-laki,10.29,Berkabut,Sedang,Sore,Skuter,25,Non-Tunai,2021,1.0,40000.0,Iya,6500,Siti,Jl. Ahmad Yani No.5,082657375743,Selesai,67
+984,Perempuan,1.97,Cerah,Tinggi,Pagi,Mobil,28,Non-Tunai,2018,2.0,,Iya,9500,Agus,Jl. Sudirman No.15,089739260175,Selesai,43
+177,Laki-laki,13.97,Bersalju,Rendah,Sore,Skuter,14,Non-Tunai,2017,3.0,,Iya,8000,Siti,Jl. Merdeka No.10,081123605694,Selesai,52
+762,Perempuan,6.58,Berkabut,Rendah,Sore,Mobil,6,Non-Tunai,2018,3.0,,Tidak,9000,Maya,Jl. Rasuna Said No.3,088954120272,Selesai,27
+187,Perempuan,16.44,Hujan,Tinggi,Siang,Sepeda,12,Tunai,2025,2.0,25500.0,Iya,5500,Agus,Jl. Thamrin No.12,087525761306,Selesai,86
+397,Laki-laki,17.24,Cerah,Rendah,Sore,Sepeda,17,Tunai,2020,5.0,75000.0,Iya,9000,Nina,Jl. Thamrin No.12,086348602226,Selesai,69
+342,Perempuan,9.73,Cerah,Rendah,Siang,Sepeda,29,Tunai,2019,1.0,20000.0,Tidak,6000,Rian,Jl. Sudirman No.15,081176261610,Selesai,60
+457,Perempuan,0.72,Hujan,Sedang,Siang,Skuter,9,Non-Tunai,2023,4.0,75000.0,Tidak,6500,Lisa,Jl. Fatmawati No.7,087080089690,Selesai,23
+194,Perempuan,12.85,Hujan,Sedang,Siang,Skuter,23,Tunai,2025,3.0,,Tidak,8000,Nina,Jl. Gatot Subroto No.8,080985683873,Selesai,80
+68,Laki-laki,16.14,Cerah,Rendah,Malam,Mobil,6,Non-Tunai,2016,4.0,75000.0,Tidak,9500,Siti,Jl. Diponegoro No.20,081567350859,Selesai,65
+55,Laki-laki,12.16,Berangin,Tinggi,Sore,Skuter,11,Tunai,2025,1.0,,Iya,6000,Agus,Jl. Rasuna Said No.3,087858203344,Selesai,69
+438,Laki-laki,16.53,Bersalju,Rendah,Siang,Skuter,24,Tunai,2016,4.0,,Tidak,8500,Siti,Jl. Gatot Subroto No.8,088886252307,Selesai,99
+901,Perempuan,4.55,Hujan,Rendah,Siang,Sepeda,5,Non-Tunai,2019,1.0,,Iya,9000,Nina,Jl. Rasuna Said No.3,086592423544,Selesai,21
+718,Perempuan,19.32,Hujan,Tinggi,Pagi,Mobil,21,Non-Tunai,2018,4.0,,Iya,6500,Dedi,Jl. Fatmawati No.7,081375659838,Selesai,112
+424,Perempuan,10.14,Cerah,Sedang,Pagi,Skuter,20,Non-Tunai,2024,5.0,,Iya,6000,Maya,Jl. Thamrin No.12,085584411937,Selesai,59
+292,Laki-laki,1.23,Cerah,Rendah,Sore,Sepeda,18,Tunai,2019,1.0,75000.0,Tidak,8500,Lisa,Jl. Sudirman No.15,084243457468,Selesai,21
+886,Laki-laki,3.98,Cerah,Tinggi,Malam,Mobil,19,Tunai,2022,2.0,,Iya,7500,Rian,Jl. Rasuna Said No.3,086205059311,Selesai,41
+82,Perempuan,12.65,Cerah,Rendah,Sore,Sepeda,15,Non-Tunai,2021,2.0,,Iya,5500,Agus,Jl. Rasuna Said No.3,082754428248,Selesai,66
+637,Perempuan,10.89,Cerah,Tinggi,Malam,Sepeda,12,Tunai,2020,4.0,100000.0,Iya,9500,Maya,Jl. Merdeka No.10,085626507487,Selesai,53
+378,Perempuan,0.95,Hujan,Sedang,Pagi,Mobil,27,Non-Tunai,2025,4.0,,Iya,5000,Agus,Jl. Diponegoro No.20,083463975047,Selesai,44
+389,Laki-laki,15.14,Berangin,Sedang,Pagi,Sepeda,15,Tunai,2021,2.0,,Tidak,8500,Dedi,Jl. Diponegoro No.20,080683719467,Selesai,71
+493,Perempuan,5.91,Cerah,Sedang,Sore,Skuter,29,Tunai,2021,2.0,20000.0,Tidak,6500,Siti,Jl. Sudirman No.15,087200674988,Selesai,57
+686,Perempuan,11.36,Berkabut,Rendah,Siang,Sepeda,6,Tunai,2021,,,Iya,10000,Rina,Jl. Thamrin No.12,085190043388,Selesai,47
+50,Laki-laki,4.1,Cerah,Rendah,Pagi,Sepeda,21,Tunai,2022,3.0,,Tidak,9500,Rina,Jl. Sudirman No.15,088218941288,Selesai,37
+787,Laki-laki,11.88,Hujan,Tinggi,Siang,Mobil,29,Non-Tunai,2016,,,Tidak,10000,Rian,Jl. Diponegoro No.20,087789814095,Selesai,78
+956,Perempuan,7.97,Berangin,Sedang,Sore,Skuter,9,Tunai,2017,5.0,,Tidak,8000,Lisa,Jl. Diponegoro No.20,083887673512,Selesai,35
+504,Perempuan,16.37,Cerah,Tinggi,Pagi,Sepeda,26,Tunai,2018,2.0,,Iya,7500,Lisa,Jl. Fatmawati No.7,088415063391,Selesai,97
+944,Perempuan,16.68,,Sedang,Siang,Sepeda,9,Tunai,2016,1.0,,Iya,5000,Siti,Jl. Diponegoro No.20,081811482982,Selesai,63
+810,Perempuan,2.71,Cerah,Sedang,Pagi,Mobil,6,Tunai,2020,4.0,,Iya,7500,Andi,Jl. Rasuna Said No.3,089635250658,Selesai,19
+719,Laki-laki,2.92,Berangin,Tinggi,Siang,Sepeda,24,Non-Tunai,2021,5.0,,Iya,5500,Lisa,Jl. Rasuna Said No.3,085573728750,Selesai,48
+255,Perempuan,3.81,Hujan,Tinggi,Siang,Sepeda,5,Non-Tunai,2019,2.0,,Tidak,7500,Budi,Jl. Gatot Subroto No.8,089391197453,Selesai,31
+227,Perempuan,19.47,Cerah,Rendah,Pagi,Sepeda,16,Tunai,2017,5.0,,Iya,8500,Maya,Jl. Rasuna Said No.3,088889979552,Selesai,83
+673,Laki-laki,2.06,Berkabut,Sedang,Sore,Skuter,22,Non-Tunai,2021,3.0,,Iya,10000,Lisa,Jl. Thamrin No.12,084955292092,Selesai,40
+408,Perempuan,0.71,Berkabut,Rendah,Malam,Sepeda,29,Non-Tunai,2024,3.0,40000.0,Tidak,10000,Rina,Jl. Gatot Subroto No.8,083259561277,Selesai,41
+521,Laki-laki,12.09,Cerah,Sedang,Pagi,Mobil,13,Tunai,2024,2.0,,Tidak,8000,Andi,Jl. Fatmawati No.7,088602061707,Selesai,60
+109,Laki-laki,4.96,Hujan,Rendah,Siang,Mobil,10,Tunai,2018,5.0,,Tidak,6500,Agus,Jl. Merdeka No.10,085018283891,Selesai,28
+651,Perempuan,2.19,Cerah,Rendah,Sore,Sepeda,26,Non-Tunai,2022,5.0,,Tidak,6000,Nina,Jl. Diponegoro No.20,085795849078,Selesai,32
+85,Perempuan,6.56,Berangin,Sedang,,Sepeda,14,Non-Tunai,2024,5.0,,Iya,8000,Rina,Jl. Rasuna Said No.3,085981360726,Selesai,47
+878,Laki-laki,13.35,Hujan,Rendah,Sore,Skuter,14,Non-Tunai,2021,4.0,75000.0,Iya,7000,Siti,Jl. Fatmawati No.7,086675949474,Selesai,91
+217,Laki-laki,6.85,Cerah,Tinggi,Pagi,Sepeda,16,Non-Tunai,2020,4.0,20000.0,Iya,9000,Dedi,Jl. Gatot Subroto No.8,081646266805,Selesai,48
+420,Laki-laki,15.17,Berangin,Rendah,Pagi,Sepeda,25,Tunai,2021,4.0,,Iya,9000,Andi,Jl. Rasuna Said No.3,083403225064,Selesai,77
+746,Laki-laki,18.04,Cerah,Sedang,Pagi,Sepeda,8,Tunai,2020,5.0,,Tidak,5500,Andi,Jl. Fatmawati No.7,083269613614,Selesai,71
+782,Perempuan,11.08,Berangin,Tinggi,Siang,Sepeda,16,Non-Tunai,2019,5.0,,Iya,5000,Nina,Jl. Merdeka No.10,089209437050,Selesai,70
+293,Perempuan,16.54,Hujan,Rendah,Siang,Skuter,6,Non-Tunai,2018,4.0,50000.0,Iya,7500,Rina,Jl. Sudirman No.15,083397571789,Selesai,51
+817,Laki-laki,12.03,Cerah,Sedang,,Mobil,20,Tunai,2020,1.0,,Iya,5500,Budi,Jl. Gatot Subroto No.8,080164788302,Selesai,65
+570,Laki-laki,7.29,Cerah,Tinggi,Sore,Mobil,11,Tunai,2018,4.0,20000.0,Tidak,7000,Nina,Jl. Gatot Subroto No.8,083531445428,Selesai,48
+561,Perempuan,14.23,Cerah,Sedang,Siang,Skuter,23,Non-Tunai,2018,1.0,,Tidak,10000,Nina,Jl. Merdeka No.10,086988427054,Selesai,70
+186,Laki-laki,13.37,Berangin,Tinggi,Siang,Skuter,17,Non-Tunai,2017,5.0,25500.0,Tidak,10000,Lisa,Jl. Sudirman No.15,086168215012,Selesai,63
+636,Laki-laki,9.22,Cerah,Sedang,Siang,Mobil,18,Non-Tunai,2016,3.0,75000.0,Tidak,9000,Lisa,Jl. Gatot Subroto No.8,085039353574,Selesai,57
+87,Perempuan,14.73,Hujan,Rendah,Siang,Sepeda,24,Non-Tunai,2019,3.0,,Iya,8000,Nina,Jl. Fatmawati No.7,081775890964,Selesai,74
+833,Perempuan,3.25,Hujan,,Sore,Skuter,29,Non-Tunai,2025,4.0,,Iya,6500,Andi,Jl. Sudirman No.15,081996837402,Selesai,51
+552,Laki-laki,17.12,Hujan,Rendah,Pagi,Sepeda,26,Non-Tunai,2022,2.0,50000.0,Tidak,7000,Lisa,Jl. Ahmad Yani No.5,089834497015,Selesai,86
+670,Laki-laki,6.06,Berkabut,Rendah,Siang,Skuter,10,Non-Tunai,2017,5.0,,Iya,9500,Rina,Jl. Sudirman No.15,081306136455,Selesai,41
+508,Perempuan,16.54,Hujan,Sedang,Siang,Sepeda,25,Tunai,2018,2.0,,Iya,6000,Dedi,Jl. Sudirman No.15,084198563860,Selesai,77
+523,Laki-laki,19.41,Cerah,Rendah,Pagi,Mobil,7,Non-Tunai,2022,2.0,,Tidak,5000,Lisa,Jl. Merdeka No.10,085190549200,Selesai,48
+565,Perempuan,7.34,Berkabut,Sedang,Siang,Sepeda,22,Tunai,2020,3.0,40000.0,Tidak,9000,Andi,Jl. Fatmawati No.7,087648395633,Selesai,93
+328,Laki-laki,12.43,Bersalju,Rendah,Siang,Mobil,12,Non-Tunai,2025,4.0,100000.0,Iya,8500,Budi,Jl. Diponegoro No.20,086032697371,Selesai,70
+707,Perempuan,6.79,Hujan,Rendah,Sore,Skuter,16,Non-Tunai,2024,2.0,50000.0,Tidak,5500,Rina,Jl. Fatmawati No.7,083215371545,Selesai,39
+215,Laki-laki,14.39,Hujan,Sedang,Pagi,Skuter,6,Non-Tunai,2025,2.0,25500.0,Tidak,5500,Andi,Jl. Gatot Subroto No.8,089851024774,Selesai,50
+35,Laki-laki,19.33,Cerah,Sedang,Pagi,Sepeda,7,Non-Tunai,2017,1.0,50000.0,Iya,6000,Rina,Jl. Fatmawati No.7,080325512066,Selesai,73
+242,Perempuan,19.1,Bersalju,Rendah,Siang,Sepeda,18,Tunai,2024,2.0,,Tidak,8000,Rian,Jl. Gatot Subroto No.8,089031675405,Selesai,101
+965,Laki-laki,6.13,Hujan,Tinggi,,Sepeda,25,Tunai,2019,3.0,75000.0,Tidak,5500,Maya,Jl. Rasuna Said No.3,080094675707,Selesai,59
+755,Laki-laki,3.22,Berangin,Tinggi,Pagi,Mobil,7,Non-Tunai,2018,2.0,,Tidak,9000,Maya,Jl. Rasuna Said No.3,085460222304,Selesai,27
+302,Laki-laki,10.86,Berangin,Sedang,,Mobil,10,Non-Tunai,2021,4.0,,Iya,9000,Nina,Jl. Fatmawati No.7,080338929925,Selesai,60
+788,Perempuan,8.32,Hujan,Rendah,Siang,Mobil,12,Tunai,2023,3.0,,Iya,6500,Andi,Jl. Sudirman No.15,082911808014,Selesai,49
+77,Perempuan,15.54,Cerah,Rendah,Malam,Sepeda,29,Tunai,2024,1.0,100000.0,Iya,9000,Nina,Jl. Rasuna Said No.3,088184822849,Selesai,76
+406,Laki-laki,17.96,Cerah,,Sore,Skuter,26,Non-Tunai,2025,4.0,,Tidak,7500,Nina,Jl. Rasuna Said No.3,084823320943,Selesai,74
+285,Laki-laki,11.78,Cerah,Rendah,Siang,Skuter,26,Tunai,2022,3.0,,Iya,5500,Dedi,Jl. Gatot Subroto No.8,081911072605,Selesai,71
+975,Laki-laki,1.11,Cerah,Rendah,Pagi,Sepeda,5,Non-Tunai,2019,5.0,,Tidak,8500,Agus,Jl. Rasuna Said No.3,088442713791,Selesai,8
+313,Laki-laki,0.99,,Sedang,Sore,Sepeda,15,Tunai,2025,2.0,,Tidak,7000,Agus,Jl. Thamrin No.12,083510324961,Selesai,32
+134,Perempuan,7.08,Cerah,Sedang,Siang,Skuter,5,Tunai,2017,1.0,50000.0,Tidak,9000,Rina,Jl. Fatmawati No.7,085824505697,Selesai,27
+690,Perempuan,4.15,,Sedang,Pagi,Mobil,17,Non-Tunai,2017,3.0,,Iya,10000,Nina,Jl. Fatmawati No.7,084770396936,Selesai,46
+417,Perempuan,6.22,Cerah,Rendah,Siang,Sepeda,16,Tunai,2016,3.0,,Tidak,6500,Andi,Jl. Diponegoro No.20,085432948190,Selesai,29
+65,Laki-laki,5.98,Cerah,Rendah,Sore,Mobil,22,Non-Tunai,2016,1.0,20000.0,Tidak,6500,Rina,Jl. Diponegoro No.20,088595146456,Selesai,35
+603,Perempuan,3.95,Cerah,Sedang,Pagi,Mobil,28,Non-Tunai,2020,5.0,,Tidak,8500,Maya,Jl. Diponegoro No.20,088024471596,Selesai,47
+268,Laki-laki,14.2,Cerah,Sedang,Siang,Sepeda,17,Non-Tunai,2024,4.0,25500.0,Iya,8500,Andi,Jl. Fatmawati No.7,084932963868,Selesai,73
+717,Perempuan,16.7,Cerah,Sedang,Siang,Skuter,28,Tunai,2024,4.0,,Tidak,6000,Lisa,Jl. Merdeka No.10,087131548724,Selesai,76
+84,Perempuan,1.74,Berkabut,Tinggi,Siang,Skuter,8,Tunai,2016,2.0,25500.0,Iya,7500,Nina,Jl. Fatmawati No.7,085014869044,Selesai,28
+803,Laki-laki,11.74,Cerah,Tinggi,Sore,Mobil,6,Tunai,2022,5.0,,Iya,5500,Nina,Jl. Merdeka No.10,087706814447,Selesai,54
+546,Laki-laki,7.48,Cerah,Sedang,Pagi,Mobil,21,Tunai,2021,1.0,,Tidak,5000,Rian,Jl. Sudirman No.15,089106603263,Selesai,52
+683,Perempuan,3.83,Hujan,Rendah,Sore,Mobil,27,Non-Tunai,2022,2.0,,Tidak,9000,Budi,Jl. Diponegoro No.20,085626292703,Selesai,49
+648,Laki-laki,13.74,Berkabut,Sedang,Siang,Sepeda,6,Tunai,2024,4.0,,Tidak,9000,Dedi,Jl. Sudirman No.15,089667415733,Selesai,56
+380,Laki-laki,6.0,Hujan,Sedang,Sore,Skuter,21,Tunai,2023,2.0,,Tidak,7000,Maya,Jl. Gatot Subroto No.8,087925555833,Selesai,47
+659,Perempuan,13.1,Cerah,Rendah,Sore,Sepeda,28,Tunai,2023,1.0,,Tidak,10000,Andi,Jl. Merdeka No.10,082501342885,Selesai,72
+260,Perempuan,2.39,Hujan,Sedang,Sore,Sepeda,27,Non-Tunai,2018,2.0,40000.0,Iya,10000,Andi,Jl. Fatmawati No.7,088001943317,Selesai,43
+57,Laki-laki,2.23,Bersalju,Sedang,Sore,Mobil,14,Tunai,2025,4.0,,Iya,9000,Siti,Jl. Gatot Subroto No.8,089095059558,Selesai,41
+772,Laki-laki,17.01,Bersalju,Rendah,Malam,Sepeda,28,Non-Tunai,2019,1.0,,Tidak,6000,Siti,Jl. Merdeka No.10,083555312397,Selesai,97
+929,Perempuan,12.85,Hujan,Sedang,Sore,Skuter,6,Non-Tunai,2018,2.0,50000.0,Iya,8000,Agus,Jl. Fatmawati No.7,082057654531,Selesai,61
+475,Laki-laki,10.79,Cerah,Sedang,Sore,Skuter,24,Non-Tunai,2024,3.0,50000.0,Tidak,5500,Rina,Jl. Ahmad Yani No.5,087010058296,Selesai,65
+808,Laki-laki,18.55,Cerah,Rendah,Siang,Mobil,11,Non-Tunai,2016,,,Tidak,9000,Rina,Jl. Merdeka No.10,081089650191,Selesai,69
+235,Perempuan,4.31,Hujan,Sedang,Siang,Sepeda,9,Tunai,2023,5.0,75000.0,Iya,6000,Siti,Jl. Rasuna Said No.3,082182040046,Selesai,35
+476,Perempuan,19.86,Hujan,Tinggi,Sore,Sepeda,12,Non-Tunai,2017,4.0,25500.0,Iya,7000,Rina,Jl. Gatot Subroto No.8,089802825165,Selesai,71
+875,Laki-laki,1.0,Bersalju,Sedang,Pagi,Sepeda,28,Non-Tunai,2025,1.0,100000.0,Tidak,7000,Nina,Jl. Diponegoro No.20,084197095296,Selesai,51
+917,Perempuan,6.24,,Sedang,Sore,Sepeda,15,Tunai,2022,1.0,,Tidak,5000,Andi,Jl. Rasuna Said No.3,089417408579,Selesai,52
+731,Laki-laki,3.7,Cerah,Sedang,Pagi,Sepeda,28,Tunai,2018,5.0,,Iya,7500,Dedi,Jl. Fatmawati No.7,080626020191,Selesai,45
+317,Perempuan,8.47,Hujan,Rendah,Siang,Skuter,19,Non-Tunai,2025,1.0,50000.0,Iya,8500,Nina,Jl. Thamrin No.12,086849374885,Selesai,48
+900,Laki-laki,2.17,Bersalju,Rendah,Sore,Mobil,15,Tunai,2022,5.0,20000.0,Iya,7000,Nina,Jl. Rasuna Said No.3,080777434738,Selesai,35
+778,Laki-laki,14.58,Cerah,Rendah,Siang,Sepeda,13,Non-Tunai,2025,1.0,,Tidak,8000,Lisa,Jl. Sudirman No.15,085771379191,Selesai,57
+442,Perempuan,19.74,Cerah,,Siang,Mobil,16,Non-Tunai,2024,5.0,40000.0,Tidak,5500,Rian,Jl. Merdeka No.10,089601590954,Selesai,98
+976,Laki-laki,5.61,Berangin,Rendah,Malam,Sepeda,25,Non-Tunai,2016,4.0,100000.0,Tidak,9500,Agus,Jl. Gatot Subroto No.8,080996810666,Selesai,48
+678,Laki-laki,8.26,Cerah,Rendah,,Mobil,21,Tunai,2021,4.0,,Tidak,9000,Siti,Jl. Merdeka No.10,086723053886,Selesai,80
+100,Perempuan,2.6,Cerah,Rendah,Siang,Sepeda,16,Tunai,2024,1.0,,Tidak,8000,Siti,Jl. Gatot Subroto No.8,082809432385,Selesai,29
+372,Laki-laki,0.86,Cerah,Tinggi,Siang,Sepeda,26,Tunai,2020,2.0,,Iya,9500,Budi,Jl. Ahmad Yani No.5,084034612507,Selesai,37
+301,Laki-laki,1.51,Cerah,Tinggi,Siang,Sepeda,14,Tunai,2023,3.0,,Iya,9500,Maya,Jl. Diponegoro No.20,085098147896,Selesai,32
+689,Laki-laki,15.51,Hujan,Sedang,Pagi,Skuter,10,Tunai,2017,1.0,,Tidak,6500,Budi,Jl. Merdeka No.10,085999336483,Selesai,81
+289,Perempuan,6.09,Cerah,Sedang,Malam,Sepeda,7,Tunai,2021,2.0,20000.0,Tidak,8500,Andi,Jl. Diponegoro No.20,083410854448,Selesai,27
+478,Perempuan,11.3,Bersalju,Sedang,Siang,Sepeda,15,Non-Tunai,2017,2.0,,Iya,9000,Siti,Jl. Merdeka No.10,086337121952,Selesai,70
+361,Perempuan,8.07,Berangin,Rendah,Sore,Sepeda,21,Tunai,2021,,50000.0,Tidak,7000,Rian,Jl. Ahmad Yani No.5,086808798878,Selesai,48
+474,Perempuan,17.88,Cerah,Sedang,Sore,Sepeda,29,Non-Tunai,2022,2.0,,Iya,5000,Siti,Jl. Fatmawati No.7,083470450614,Selesai,98
+218,Perempuan,15.06,Hujan,Rendah,Pagi,Sepeda,22,Non-Tunai,2021,3.0,40000.0,Tidak,6500,Nina,Jl. Merdeka No.10,080642928579,Selesai,65
+558,Laki-laki,1.06,,Rendah,Siang,Skuter,19,Non-Tunai,2019,4.0,50000.0,Iya,10000,Rina,Jl. Fatmawati No.7,086127895680,Selesai,21
+953,Perempuan,3.92,Hujan,Sedang,Malam,Sepeda,20,Tunai,2016,3.0,,Tidak,10000,Budi,Jl. Gatot Subroto No.8,086627902371,Selesai,41
+219,Perempuan,13.17,Hujan,Tinggi,Sore,Skuter,17,Tunai,2017,3.0,,Iya,10000,Rian,Jl. Fatmawati No.7,082389988151,Selesai,69
+47,Laki-laki,6.58,Cerah,Rendah,Siang,Sepeda,13,Non-Tunai,2024,4.0,,Iya,8000,Rian,Jl. Sudirman No.15,081627882349,Selesai,34
+71,Laki-laki,15.56,Cerah,Sedang,Sore,Sepeda,14,Tunai,2022,3.0,,Tidak,9000,Dedi,Jl. Sudirman No.15,081072891461,Selesai,54
+852,Perempuan,15.12,Berkabut,Rendah,Pagi,Sepeda,14,Tunai,2024,4.0,,Tidak,8000,Budi,Jl. Rasuna Said No.3,088225432131,Selesai,58
+212,Perempuan,13.99,Cerah,Tinggi,Sore,Skuter,7,Tunai,2022,3.0,,Iya,6000,Agus,Jl. Gatot Subroto No.8,089935119141,Selesai,96
+805,Perempuan,8.77,Cerah,Sedang,Pagi,Mobil,12,Non-Tunai,2023,,,Tidak,6000,Lisa,Jl. Gatot Subroto No.8,085610384189,Selesai,42
+279,Perempuan,14.19,Cerah,Sedang,Siang,Sepeda,9,Non-Tunai,2024,2.0,,Tidak,8000,Maya,Jl. Merdeka No.10,086836654560,Selesai,57
+430,Laki-laki,2.78,,Tinggi,Siang,Skuter,9,Tunai,2025,,75000.0,Iya,6000,Dedi,Jl. Diponegoro No.20,083082771654,Selesai,41
+290,Perempuan,12.02,Cerah,Rendah,Pagi,Mobil,9,Non-Tunai,2018,5.0,,Iya,9000,Budi,Jl. Gatot Subroto No.8,082157050799,Selesai,41
+247,Perempuan,8.85,Cerah,Rendah,Siang,Sepeda,11,Non-Tunai,2016,4.0,,Iya,10000,Rian,Jl. Rasuna Said No.3,081810080415,Selesai,45
+634,Perempuan,10.88,Bersalju,Rendah,Siang,Mobil,13,Non-Tunai,2022,4.0,,Iya,8000,Lisa,Jl. Merdeka No.10,087758122197,Selesai,52
+943,Laki-laki,13.2,Bersalju,Rendah,Pagi,Mobil,14,Non-Tunai,2022,4.0,,Iya,7500,Budi,Jl. Ahmad Yani No.5,082296959635,Selesai,62
+119,Perempuan,17.9,Cerah,Rendah,Pagi,Sepeda,23,Tunai,2025,1.0,,Iya,8500,Andi,Jl. Fatmawati No.7,080226314065,Selesai,85
+232,Perempuan,10.3,Cerah,Rendah,Sore,Skuter,19,Tunai,2017,4.0,40000.0,Iya,8500,Nina,Jl. Thamrin No.12,087253731003,Selesai,48
+330,Laki-laki,5.33,Cerah,Rendah,Sore,Mobil,29,Non-Tunai,2024,4.0,20000.0,Tidak,9000,Dedi,Jl. Gatot Subroto No.8,087988342142,Selesai,51
+979,Laki-laki,10.18,Berkabut,Sedang,Pagi,Sepeda,25,Tunai,2022,5.0,,Iya,9000,Budi,Jl. Rasuna Said No.3,088913420821,Selesai,73
+819,Perempuan,1.57,Hujan,Rendah,Sore,Mobil,16,Tunai,2024,3.0,,Iya,7500,Agus,Jl. Merdeka No.10,081190516640,Selesai,30
+336,Laki-laki,1.29,Hujan,Rendah,Sore,Sepeda,7,Tunai,2018,2.0,,Tidak,9500,Rian,Jl. Thamrin No.12,083764171747,Selesai,15
+554,Perempuan,11.44,Berkabut,Tinggi,Siang,Mobil,14,Non-Tunai,2021,4.0,,Tidak,9500,Budi,Jl. Rasuna Said No.3,081828114713,Selesai,74
+829,Laki-laki,14.88,Bersalju,Sedang,Sore,Sepeda,10,Non-Tunai,2025,4.0,,Iya,5000,Dedi,Jl. Rasuna Said No.3,089385072586,Selesai,64
+584,Laki-laki,6.91,Cerah,Sedang,Sore,Skuter,28,Tunai,2016,3.0,40000.0,Tidak,6500,Siti,Jl. Merdeka No.10,082757947927,Selesai,56
+185,Perempuan,5.53,Cerah,Sedang,Siang,Sepeda,19,Non-Tunai,2024,3.0,25500.0,Iya,9000,Maya,Jl. Merdeka No.10,085370490122,Selesai,44
+90,Laki-laki,9.71,Cerah,Rendah,Pagi,Sepeda,8,Tunai,2024,4.0,,Tidak,7000,Andi,Jl. Gatot Subroto No.8,080705375351,Selesai,49
+733,Laki-laki,13.47,Hujan,Rendah,Siang,Skuter,7,Tunai,2019,,,Tidak,8500,Rina,Jl. Merdeka No.10,080583530152,Selesai,46
+11,Perempuan,0.9,Cerah,Rendah,Siang,Sepeda,20,Tunai,2017,5.0,50000.0,Iya,8500,Maya,Jl. Fatmawati No.7,087943766900,Selesai,23
+675,Perempuan,8.5,Bersalju,Tinggi,Sore,Sepeda,14,Tunai,2018,1.0,50000.0,Tidak,6500,Siti,Jl. Merdeka No.10,081525541379,Selesai,56
+106,Laki-laki,5.36,Cerah,Rendah,Siang,Skuter,11,Tunai,2021,2.0,,Tidak,5000,Andi,Jl. Thamrin No.12,085152552983,Selesai,30
+853,Perempuan,4.59,Berkabut,Rendah,Sore,Skuter,19,Non-Tunai,2017,4.0,,Tidak,7000,Nina,Jl. Diponegoro No.20,087659656690,Selesai,36
+632,Laki-laki,17.96,Cerah,Sedang,,Sepeda,22,Tunai,2023,5.0,,Iya,5000,Siti,Jl. Sudirman No.15,081843922722,Selesai,76
+925,Laki-laki,8.79,Bersalju,Rendah,Malam,Sepeda,14,Tunai,2019,4.0,,Tidak,5500,Dedi,Jl. Diponegoro No.20,080100082882,Selesai,43
+940,Laki-laki,11.74,Cerah,Rendah,Siang,Mobil,20,Non-Tunai,2024,,20000.0,Iya,8000,Siti,Jl. Gatot Subroto No.8,086791753379,Selesai,52
+409,Perempuan,18.15,Hujan,Tinggi,Pagi,Sepeda,22,Tunai,2018,4.0,,Tidak,8500,Rian,Jl. Gatot Subroto No.8,089530797947,Selesai,108
+103,Laki-laki,6.63,Berkabut,Rendah,Malam,Skuter,24,Tunai,2022,4.0,50000.0,Tidak,9000,Budi,Jl. Thamrin No.12,086239387686,Selesai,58
+5,Perempuan,3.54,Berkabut,Rendah,,Sepeda,23,Non-Tunai,2018,4.0,40000.0,Tidak,8500,Budi,Jl. Gatot Subroto No.8,086020973073,Selesai,37
+888,Laki-laki,5.14,Cerah,Sedang,Sore,Skuter,23,Tunai,2018,4.0,50000.0,Iya,9500,Siti,Jl. Merdeka No.10,084098985828,Selesai,43
+267,Laki-laki,14.09,Cerah,Sedang,Siang,Skuter,12,Tunai,2022,4.0,25500.0,Tidak,9500,Agus,Jl. Ahmad Yani No.5,087364526860,Selesai,55
+654,Perempuan,15.04,Cerah,Rendah,Pagi,Mobil,24,Tunai,2020,4.0,75000.0,Iya,9500,Rian,Jl. Sudirman No.15,081032684803,Selesai,60
+54,Perempuan,17.95,Bersalju,Tinggi,Pagi,Skuter,16,Non-Tunai,2025,3.0,,Iya,7000,Rina,Jl. Gatot Subroto No.8,082422003590,Selesai,96
+779,Laki-laki,14.54,Cerah,Sedang,Sore,Sepeda,29,Tunai,2023,5.0,25500.0,Tidak,5000,Rina,Jl. Diponegoro No.20,086241281059,Selesai,73
+405,Perempuan,6.74,Hujan,Sedang,Sore,Mobil,21,Non-Tunai,2016,4.0,,Iya,7500,Andi,Jl. Diponegoro No.20,087430572719,Selesai,47
+314,Perempuan,19.27,Berkabut,Sedang,Pagi,Mobil,29,Non-Tunai,2016,1.0,,Tidak,7500,Maya,Jl. Ahmad Yani No.5,089620534120,Selesai,85
+322,Perempuan,14.43,Cerah,Sedang,Pagi,Mobil,14,Tunai,2021,2.0,,Iya,7000,Maya,Jl. Gatot Subroto No.8,080807088651,Selesai,113
+238,Perempuan,0.97,Cerah,Rendah,Malam,Skuter,24,Tunai,2017,1.0,,Iya,7500,Andi,Jl. Fatmawati No.7,080342490004,Selesai,26
+954,Perempuan,18.33,Bersalju,Sedang,Pagi,Skuter,5,Tunai,2020,5.0,,Tidak,7000,Rian,Jl. Diponegoro No.20,081622341873,Selesai,67
+571,Laki-laki,10.52,Hujan,Sedang,Siang,Skuter,8,Non-Tunai,2021,4.0,,Tidak,5000,Rina,Jl. Merdeka No.10,082410097204,Selesai,56
+70,Perempuan,19.74,,Rendah,,Mobil,21,Non-Tunai,2018,3.0,,Tidak,6500,Siti,Jl. Ahmad Yani No.5,088407899143,Selesai,71
+92,Laki-laki,14.41,Hujan,,Malam,Sepeda,16,Tunai,2019,1.0,,Tidak,7000,Agus,Jl. Merdeka No.10,080968540912,Selesai,85
+722,Perempuan,4.03,Cerah,Sedang,Sore,Sepeda,9,Tunai,2020,,,Iya,5000,Rian,Jl. Merdeka No.10,083545028065,Selesai,25
+410,Laki-laki,2.28,Berkabut,Sedang,Pagi,Skuter,27,Tunai,2019,1.0,,Tidak,7000,Siti,Jl. Rasuna Said No.3,085080161974,Selesai,44
+998,Perempuan,3.17,Cerah,Rendah,Siang,Sepeda,17,Non-Tunai,2024,1.0,,Iya,5000,Dedi,Jl. Ahmad Yani No.5,082340880020,Selesai,28
+512,Perempuan,8.66,Bersalju,Tinggi,Pagi,Sepeda,29,Tunai,2022,2.0,75000.0,Tidak,6000,Rina,Jl. Sudirman No.15,085680867008,Selesai,77
+80,Laki-laki,2.76,Berangin,Sedang,Malam,Sepeda,6,Non-Tunai,2023,2.0,25500.0,Iya,10000,Maya,Jl. Rasuna Said No.3,080317473688,Selesai,27
+320,Perempuan,5.38,Cerah,Sedang,Sore,Skuter,26,Non-Tunai,2024,4.0,,Tidak,5000,Agus,Jl. Gatot Subroto No.8,081581074769,Selesai,47
+36,Laki-laki,16.26,Hujan,Rendah,Pagi,Mobil,27,Tunai,2020,4.0,,Iya,9500,Siti,Jl. Gatot Subroto No.8,083729462645,Selesai,66
+506,Perempuan,3.67,Cerah,Rendah,,Sepeda,9,Tunai,2025,5.0,,Tidak,5000,Budi,Jl. Diponegoro No.20,087388133070,Selesai,26
+525,Laki-laki,16.85,Cerah,Tinggi,Pagi,Mobil,17,Tunai,2021,5.0,25500.0,Iya,10000,Maya,Jl. Diponegoro No.20,088343916943,Selesai,71
+339,Perempuan,9.75,Cerah,Rendah,Siang,Sepeda,22,Non-Tunai,2018,4.0,,Iya,6000,Lisa,Jl. Merdeka No.10,086974678291,Selesai,50
+76,Perempuan,14.72,Cerah,,Sore,Skuter,15,Non-Tunai,2017,,20000.0,Tidak,6500,Nina,Jl. Thamrin No.12,089651069181,Selesai,80
+910,Laki-laki,7.9,Cerah,Rendah,Siang,Skuter,22,Tunai,2025,5.0,,Iya,7000,Agus,Jl. Rasuna Said No.3,084432779218,Selesai,48
+902,Perempuan,1.02,Cerah,Sedang,Siang,Sepeda,25,Tunai,2021,4.0,,Tidak,8000,Agus,Jl. Diponegoro No.20,089080516664,Selesai,34
+364,Laki-laki,11.14,Hujan,Sedang,Pagi,Skuter,7,Tunai,2022,5.0,,Iya,9500,Nina,Jl. Gatot Subroto No.8,084447075886,Selesai,47
+110,Perempuan,2.0,Cerah,Tinggi,Sore,Skuter,10,Tunai,2023,3.0,25500.0,Tidak,10000,Andi,Jl. Ahmad Yani No.5,087065952466,Selesai,30
+393,Perempuan,7.75,,Sedang,Sore,Skuter,21,Tunai,2024,4.0,,Tidak,8500,Lisa,Jl. Gatot Subroto No.8,085153971581,Selesai,55
+104,Laki-laki,10.42,Berangin,Sedang,Siang,Sepeda,28,Non-Tunai,2022,5.0,,Tidak,8000,Rian,Jl. Merdeka No.10,085885294456,Selesai,72
+973,Perempuan,14.79,Cerah,Sedang,Pagi,Skuter,12,Non-Tunai,2016,4.0,,Iya,6500,Budi,Jl. Ahmad Yani No.5,085773380106,Selesai,64
+490,Laki-laki,17.86,Cerah,Rendah,Siang,Skuter,16,Non-Tunai,2017,3.0,,Iya,5500,Siti,Jl. Rasuna Said No.3,089318880539,Selesai,83
+942,Laki-laki,11.31,Cerah,Sedang,Sore,Sepeda,7,Non-Tunai,2025,2.0,,Iya,6000,Maya,Jl. Gatot Subroto No.8,081028332992,Selesai,54
+450,Perempuan,2.13,Hujan,Rendah,Pagi,Skuter,9,Tunai,2023,3.0,,Tidak,6000,Dedi,Jl. Thamrin No.12,081273753586,Selesai,22
+323,Perempuan,13.37,Berkabut,Sedang,Sore,Skuter,16,Non-Tunai,2016,1.0,,Tidak,8500,Andi,Jl. Merdeka No.10,087851539006,Selesai,71
+967,Laki-laki,14.52,Cerah,Sedang,Siang,Mobil,26,Tunai,2020,1.0,,Tidak,6000,Siti,Jl. Gatot Subroto No.8,089917224468,Selesai,86
+914,Laki-laki,8.48,Cerah,Tinggi,Malam,Sepeda,11,Tunai,2020,1.0,,Tidak,8000,Rina,Jl. Merdeka No.10,088563697508,Selesai,39
+884,Laki-laki,2.53,Bersalju,Rendah,Pagi,Sepeda,6,Tunai,2017,,50000.0,Iya,8500,Andi,Jl. Sudirman No.15,086064919610,Selesai,24
+446,Perempuan,18.97,Cerah,Rendah,Sore,Mobil,25,Tunai,2021,3.0,20000.0,Tidak,8500,Lisa,Jl. Sudirman No.15,082952540325,Selesai,141
+303,Perempuan,11.04,Cerah,Sedang,Siang,Skuter,8,Tunai,2023,2.0,,Iya,7500,Rina,Jl. Sudirman No.15,085013602042,Selesai,54
+324,Perempuan,5.96,Cerah,Rendah,Siang,Sepeda,26,Non-Tunai,2019,3.0,,Iya,5000,Siti,Jl. Diponegoro No.20,081889147322,Selesai,48
+969,Laki-laki,11.54,Cerah,Tinggi,Siang,Mobil,10,Non-Tunai,2025,4.0,,Iya,6000,Agus,Jl. Rasuna Said No.3,089067372313,Selesai,56
+253,Laki-laki,17.1,Cerah,Sedang,Sore,Sepeda,25,Non-Tunai,2020,3.0,,Iya,10000,Budi,Jl. Fatmawati No.7,083335253161,Selesai,65
+949,Laki-laki,17.54,Cerah,,Pagi,Mobil,16,Tunai,2017,4.0,,Iya,7500,Rian,Jl. Ahmad Yani No.5,081034496675,Selesai,54
+433,Perempuan,12.56,Cerah,Tinggi,Sore,Sepeda,17,Tunai,2020,2.0,,Tidak,6500,Rian,Jl. Sudirman No.15,082948533698,Selesai,69
+980,Laki-laki,12.14,Berkabut,Tinggi,Siang,Sepeda,12,Tunai,2025,2.0,,Tidak,8000,Lisa,Jl. Thamrin No.12,083714389423,Selesai,65
+191,Perempuan,2.32,Cerah,Rendah,Siang,Skuter,23,Non-Tunai,2024,2.0,,Iya,9000,Budi,Jl. Fatmawati No.7,087388873145,Selesai,32
+495,Laki-laki,9.54,Hujan,Sedang,Sore,Skuter,11,Non-Tunai,2020,5.0,100000.0,Tidak,6000,Agus,Jl. Ahmad Yani No.5,082939829880,Selesai,47
+441,Laki-laki,2.15,Berangin,Sedang,Siang,Mobil,17,Non-Tunai,2019,2.0,,Tidak,10000,Rina,Jl. Fatmawati No.7,088974368385,Selesai,30
+497,Perempuan,11.88,Hujan,Sedang,Sore,Sepeda,20,Tunai,2017,1.0,25500.0,Iya,5500,Nina,Jl. Diponegoro No.20,081967389872,Selesai,69
+349,Laki-laki,7.8,Berangin,Sedang,Siang,Mobil,17,Non-Tunai,2019,,,Tidak,10000,Budi,Jl. Fatmawati No.7,085245209548,Selesai,44
+280,Laki-laki,16.02,Cerah,Rendah,Sore,Sepeda,20,Non-Tunai,2018,1.0,25500.0,Iya,9500,Maya,Jl. Fatmawati No.7,080317811207,Selesai,61
+37,Perempuan,6.44,Cerah,Rendah,Siang,Mobil,18,Tunai,2023,1.0,,Tidak,8000,Budi,Jl. Sudirman No.15,083625031875,Selesai,43
+662,Perempuan,19.74,Hujan,Tinggi,Siang,Skuter,11,Non-Tunai,2018,3.0,40000.0,Iya,9000,Lisa,Jl. Diponegoro No.20,087076859962,Selesai,81
+180,Laki-laki,3.18,Hujan,Sedang,Sore,Sepeda,21,Tunai,2022,1.0,,Iya,8000,Budi,Jl. Thamrin No.12,081974449408,Selesai,42
+373,Perempuan,2.34,Berkabut,Sedang,Pagi,Sepeda,8,Non-Tunai,2023,3.0,,Iya,8500,Andi,Jl. Ahmad Yani No.5,080500554001,Selesai,28
+278,Laki-laki,13.17,Berangin,Sedang,Siang,Sepeda,16,Tunai,2021,2.0,40000.0,Tidak,5500,Agus,Jl. Thamrin No.12,081842421263,Selesai,67
+477,Perempuan,1.94,Berkabut,Rendah,Malam,Sepeda,10,Non-Tunai,2024,2.0,100000.0,Iya,5000,Rina,Jl. Merdeka No.10,085613118937,Selesai,25
+698,Laki-laki,11.83,Cerah,Rendah,Sore,Skuter,9,Non-Tunai,2018,4.0,,Tidak,6500,Maya,Jl. Merdeka No.10,085643190641,Selesai,32
+780,Laki-laki,13.0,Berkabut,Rendah,Sore,Sepeda,25,Non-Tunai,2018,4.0,100000.0,Tidak,8500,Maya,Jl. Thamrin No.12,082787654543,Selesai,77
+480,Laki-laki,10.7,Cerah,Sedang,Siang,Skuter,8,Non-Tunai,2020,2.0,40000.0,Iya,6500,Budi,Jl. Ahmad Yani No.5,086871756955,Selesai,44
+281,Perempuan,17.86,Hujan,Rendah,Siang,Sepeda,5,Tunai,2024,3.0,,Iya,6500,Rian,Jl. Sudirman No.15,083108016464,Selesai,50
+539,Perempuan,9.29,Cerah,Sedang,Sore,Sepeda,10,Tunai,2016,2.0,,Tidak,9500,Budi,Jl. Thamrin No.12,086547189476,Selesai,40
+440,Laki-laki,2.09,Hujan,Rendah,Malam,Sepeda,23,Tunai,2023,2.0,20000.0,Iya,9500,Lisa,Jl. Merdeka No.10,080951719789,Selesai,36
+192,Perempuan,18.0,Hujan,Tinggi,Malam,Mobil,22,Non-Tunai,2025,2.0,75000.0,Tidak,10000,Siti,Jl. Diponegoro No.20,085493738821,Selesai,98
+841,Perempuan,0.76,Cerah,Rendah,Siang,Mobil,26,Tunai,2016,3.0,,Tidak,7000,Rian,Jl. Fatmawati No.7,086190624636,Selesai,28
+759,Perempuan,17.93,Cerah,Sedang,Siang,Sepeda,29,Tunai,2021,3.0,20000.0,Iya,6500,Dedi,Jl. Ahmad Yani No.5,083546295908,Selesai,85
+687,Laki-laki,11.65,Berangin,Rendah,Malam,Sepeda,10,Non-Tunai,2022,2.0,,Tidak,5000,Agus,Jl. Diponegoro No.20,084260009438,Selesai,53
+612,Laki-laki,16.09,Hujan,Rendah,Pagi,Sepeda,21,Non-Tunai,2017,3.0,75000.0,Tidak,5500,Rina,Jl. Thamrin No.12,084258791242,Selesai,66
+291,Laki-laki,1.09,Cerah,Sedang,Pagi,Skuter,6,Non-Tunai,2023,3.0,,Iya,5500,Rian,Jl. Rasuna Said No.3,084998515824,Selesai,17
+609,Perempuan,10.32,Cerah,Sedang,Malam,Mobil,24,Tunai,2020,5.0,,Iya,6500,Dedi,Jl. Thamrin No.12,086109655043,Selesai,49
+813,Laki-laki,2.93,Cerah,Sedang,Pagi,Sepeda,24,Non-Tunai,2017,5.0,40000.0,Tidak,7000,Agus,Jl. Diponegoro No.20,089785564196,Selesai,94
+3,Perempuan,14.77,,Tinggi,Pagi,Skuter,11,Non-Tunai,2019,2.0,,Tidak,8000,Agus,Jl. Thamrin No.12,089976029761,Selesai,67
+102,Perempuan,12.91,Berangin,Sedang,Sore,Sepeda,11,Tunai,2019,3.0,,Tidak,8500,Dedi,Jl. Fatmawati No.7,086128250171,Selesai,56
+783,Perempuan,5.41,Cerah,Tinggi,Pagi,Skuter,17,Non-Tunai,2019,5.0,,Tidak,5500,Dedi,Jl. Fatmawati No.7,080113191260,Selesai,38
+369,Laki-laki,4.32,Cerah,Rendah,Pagi,Sepeda,21,Non-Tunai,2016,5.0,25500.0,Iya,9000,Lisa,Jl. Diponegoro No.20,082525765948,Selesai,34
+563,Laki-laki,3.16,Bersalju,Rendah,Pagi,Mobil,9,Tunai,2025,1.0,50000.0,Tidak,9000,Rina,Jl. Ahmad Yani No.5,089970157602,Selesai,27
+165,Laki-laki,2.26,Cerah,Sedang,Pagi,Skuter,6,Tunai,2022,5.0,,Iya,5500,Siti,Jl. Merdeka No.10,088360684164,Selesai,19
+537,Laki-laki,17.07,Cerah,Sedang,Pagi,Sepeda,20,Tunai,2019,5.0,,Tidak,6000,Rian,Jl. Ahmad Yani No.5,080243829223,Selesai,73
+585,Laki-laki,12.85,Berangin,Sedang,Siang,Skuter,18,Tunai,2018,3.0,20000.0,Tidak,8500,Nina,Jl. Sudirman No.15,081896936344,Selesai,61
+22,Perempuan,3.22,Cerah,Sedang,Siang,Sepeda,19,Tunai,2016,1.0,,Iya,9000,Dedi,Jl. Gatot Subroto No.8,081470567336,Selesai,32
+7,Perempuan,1.63,Hujan,Sedang,Malam,Sepeda,24,Non-Tunai,2020,4.0,,Tidak,9000,Rina,Jl. Sudirman No.15,081251103273,Selesai,38
+458,Laki-laki,9.64,Hujan,Sedang,Sore,Sepeda,14,Tunai,2019,5.0,,Tidak,8000,Maya,Jl. Diponegoro No.20,081768167565,Selesai,52
+460,Perempuan,2.82,Hujan,Sedang,Sore,Skuter,10,Tunai,2024,1.0,,Tidak,7000,Maya,Jl. Thamrin No.12,084935085159,Selesai,29
+33,Perempuan,1.77,Cerah,Sedang,Sore,Sepeda,14,Tunai,2016,1.0,20000.0,Tidak,7000,Rina,Jl. Thamrin No.12,088992536242,Selesai,22
+887,Perempuan,13.23,Cerah,Sedang,Malam,Sepeda,20,Tunai,2017,3.0,75000.0,Tidak,7000,Rina,Jl. Sudirman No.15,088291633733,Selesai,70
+726,Laki-laki,16.92,Cerah,Rendah,Malam,Sepeda,23,Non-Tunai,2020,3.0,25500.0,Iya,6500,Dedi,Jl. Rasuna Said No.3,087148575206,Selesai,78
+214,Perempuan,4.87,Bersalju,Tinggi,Sore,Sepeda,16,Tunai,2018,3.0,,Tidak,9500,Rina,Jl. Gatot Subroto No.8,081148494816,Selesai,54
+135,Perempuan,18.89,Hujan,Sedang,Pagi,Skuter,22,Tunai,2024,,75000.0,Tidak,5500,Rian,Jl. Ahmad Yani No.5,088900637370,Selesai,74
+392,Laki-laki,8.55,Cerah,Rendah,Sore,Skuter,28,Tunai,2017,3.0,20000.0,Tidak,5000,Nina,Jl. Sudirman No.15,082492958693,Selesai,46
+912,Laki-laki,5.73,Berkabut,Rendah,Pagi,Skuter,7,Tunai,2023,2.0,,Iya,10000,Nina,Jl. Rasuna Said No.3,081553858463,Selesai,30
+277,Perempuan,16.07,Cerah,Sedang,Sore,Sepeda,16,Non-Tunai,2020,2.0,,Tidak,8500,Rian,Jl. Merdeka No.10,081114756145,Selesai,64
+398,Laki-laki,8.87,Cerah,Rendah,Sore,Sepeda,19,Tunai,2022,5.0,,Iya,7000,Siti,Jl. Sudirman No.15,084587693652,Selesai,55
+626,Laki-laki,7.69,Hujan,Tinggi,Pagi,Skuter,16,Tunai,2022,4.0,,Iya,7500,Maya,Jl. Sudirman No.15,081435059025,Selesai,58
+161,Laki-laki,7.67,Berkabut,Sedang,Siang,Skuter,22,Tunai,2017,5.0,40000.0,Iya,5000,Lisa,Jl. Rasuna Said No.3,085950013923,Selesai,59
+650,Laki-laki,10.22,Bersalju,Sedang,Malam,Sepeda,18,Non-Tunai,2024,4.0,20000.0,Iya,9500,Lisa,Jl. Diponegoro No.20,082580509415,Selesai,68
+703,Perempuan,7.06,Cerah,Rendah,Siang,Skuter,26,Non-Tunai,2020,1.0,,Iya,6000,Siti,Jl. Merdeka No.10,085284188748,Selesai,51
+978,Perempuan,1.5,Cerah,Rendah,Siang,Sepeda,10,Non-Tunai,2024,1.0,,Tidak,5000,Nina,Jl. Gatot Subroto No.8,088938318050,Selesai,17
+958,Perempuan,1.42,Cerah,Tinggi,Siang,Skuter,24,Tunai,2023,5.0,,Tidak,10000,Maya,Jl. Rasuna Said No.3,088938994611,Selesai,40
+701,Laki-laki,10.89,Berangin,Sedang,Sore,Sepeda,7,Non-Tunai,2025,5.0,25500.0,Iya,8500,Rina,Jl. Ahmad Yani No.5,088746824700,Selesai,58
+510,Perempuan,14.65,Bersalju,Tinggi,Pagi,Mobil,19,Tunai,2022,4.0,,Tidak,6000,Agus,Jl. Fatmawati No.7,083217631791,Selesai,95
+824,Perempuan,8.26,Bersalju,Rendah,Siang,Sepeda,15,Tunai,2024,5.0,,Tidak,7500,Lisa,Jl. Gatot Subroto No.8,084493516181,Selesai,57
+545,Perempuan,12.55,Berangin,Rendah,Sore,Sepeda,13,Tunai,2017,2.0,,Tidak,6500,Dedi,Jl. Gatot Subroto No.8,089689842255,Selesai,51
+254,Laki-laki,6.68,Cerah,Tinggi,Pagi,Skuter,10,Tunai,2020,1.0,100000.0,Iya,6000,Lisa,Jl. Ahmad Yani No.5,083647585049,Selesai,44
+257,Perempuan,18.76,Cerah,Sedang,Sore,Mobil,15,Non-Tunai,2023,3.0,100000.0,Iya,9000,Rian,Jl. Merdeka No.10,089653862927,Selesai,80
+716,Perempuan,18.63,Berangin,Rendah,Siang,Sepeda,11,Non-Tunai,2020,3.0,,Iya,9500,Dedi,Jl. Ahmad Yani No.5,084795297321,Selesai,85
+448,Laki-laki,15.19,Berkabut,Rendah,Sore,Skuter,6,Non-Tunai,2021,2.0,,Tidak,8000,Andi,Jl. Gatot Subroto No.8,083873968768,Selesai,53
+625,Laki-laki,12.56,Cerah,Rendah,Pagi,Mobil,22,Non-Tunai,2017,3.0,,Iya,7500,Agus,Jl. Sudirman No.15,080913071381,Selesai,49
+538,Perempuan,5.32,Hujan,Rendah,Siang,Skuter,27,Tunai,2023,1.0,,Iya,7000,Rian,Jl. Merdeka No.10,082458023351,Selesai,48
+628,Laki-laki,15.08,Hujan,Sedang,Sore,Skuter,26,Tunai,2024,1.0,20000.0,Tidak,7000,Lisa,Jl. Diponegoro No.20,088329699639,Selesai,94
+781,Laki-laki,14.03,Cerah,Rendah,Siang,Sepeda,17,Tunai,2023,1.0,,Tidak,7000,Budi,Jl. Merdeka No.10,085651044322,Selesai,65
+295,Perempuan,2.98,Berkabut,,Malam,Sepeda,11,Non-Tunai,2023,4.0,,Iya,9500,Andi,Jl. Rasuna Said No.3,086587976356,Selesai,27
+579,Perempuan,10.1,Hujan,Rendah,Sore,Mobil,8,Non-Tunai,2021,4.0,20000.0,Iya,9500,Budi,Jl. Fatmawati No.7,084762547601,Selesai,50
+159,Perempuan,5.13,Berkabut,Sedang,Sore,Mobil,25,Non-Tunai,2024,1.0,,Iya,9500,Rina,Jl. Gatot Subroto No.8,080468487041,Selesai,60
+532,Perempuan,19.99,Hujan,Tinggi,Sore,Sepeda,17,Non-Tunai,2024,5.0,,Tidak,6500,Rina,Jl. Rasuna Said No.3,086187425405,Selesai,112
+981,Perempuan,7.02,Cerah,Sedang,Sore,Mobil,23,Non-Tunai,2023,3.0,,Iya,9500,Andi,Jl. Fatmawati No.7,087950124735,Selesai,53
+919,Perempuan,15.39,Cerah,Sedang,Sore,Skuter,24,Tunai,2020,4.0,,Iya,5500,Rian,Jl. Sudirman No.15,087364644644,Selesai,89
+163,Laki-laki,12.85,Cerah,Rendah,Siang,Skuter,5,Non-Tunai,2025,2.0,100000.0,Iya,6500,Rian,Jl. Rasuna Said No.3,086063954954,Selesai,54
+99,Perempuan,1.0,Bersalju,Sedang,Pagi,Sepeda,25,Tunai,2021,3.0,,Iya,8000,Agus,Jl. Gatot Subroto No.8,081776875464,Selesai,44
+233,Laki-laki,11.75,Cerah,Tinggi,Pagi,Sepeda,9,Tunai,2023,3.0,20000.0,Iya,9500,Rian,Jl. Fatmawati No.7,080565944634,Selesai,55
+860,Perempuan,1.78,Bersalju,Rendah,Sore,Mobil,20,Tunai,2019,4.0,50000.0,Iya,9000,Lisa,Jl. Rasuna Said No.3,083498144756,Selesai,35
+160,Perempuan,14.7,Cerah,Sedang,Pagi,Skuter,6,Non-Tunai,2023,3.0,,Iya,6000,Nina,Jl. Fatmawati No.7,085730305798,Selesai,58
+688,Perempuan,5.96,Cerah,Sedang,Siang,Sepeda,22,Tunai,2018,,,Iya,8500,Maya,Jl. Diponegoro No.20,081144058714,Selesai,45
+394,Laki-laki,15.64,Hujan,Rendah,,Sepeda,20,Tunai,2021,4.0,,Iya,9500,Rina,Jl. Sudirman No.15,080091470926,Selesai,141
+855,Laki-laki,4.5,Berangin,Rendah,Sore,Skuter,20,Non-Tunai,2019,4.0,75000.0,Tidak,5000,Andi,Jl. Fatmawati No.7,088567556187,Selesai,32
+895,Perempuan,13.53,Hujan,Rendah,Sore,Sepeda,28,Non-Tunai,2017,4.0,,Iya,6000,Dedi,Jl. Diponegoro No.20,081499237688,Selesai,78
+423,Laki-laki,2.28,Cerah,Sedang,Sore,Skuter,27,Tunai,2016,1.0,50000.0,Iya,9000,Andi,Jl. Merdeka No.10,088167664252,Selesai,39
+916,Perempuan,9.0,Bersalju,Sedang,Siang,Mobil,29,Non-Tunai,2022,3.0,,Tidak,7500,Agus,Jl. Merdeka No.10,085047502108,Selesai,78
+125,Laki-laki,4.94,Hujan,Tinggi,Sore,Skuter,28,Non-Tunai,2021,4.0,25500.0,Iya,5500,Agus,Jl. Diponegoro No.20,084606019333,Selesai,63
+172,Perempuan,0.82,Berangin,Rendah,Pagi,Mobil,18,Tunai,2016,3.0,,Iya,8000,Maya,Jl. Sudirman No.15,086544918606,Selesai,23
+933,Laki-laki,19.7,Hujan,Rendah,Sore,Mobil,16,Tunai,2019,1.0,,Iya,7500,Rian,Jl. Ahmad Yani No.5,088204232506,Selesai,66
+720,Laki-laki,14.75,Cerah,Rendah,Pagi,Mobil,10,Non-Tunai,2018,3.0,40000.0,Iya,5500,Andi,Jl. Merdeka No.10,081997785733,Selesai,62
+98,Perempuan,8.84,Cerah,,Pagi,Sepeda,26,Tunai,2025,,,Iya,5500,Lisa,Jl. Ahmad Yani No.5,086598852345,Selesai,57
+181,Laki-laki,7.15,Berangin,Rendah,Pagi,Sepeda,15,Non-Tunai,2022,4.0,50000.0,Tidak,9000,Dedi,Jl. Sudirman No.15,084693584172,Selesai,42
+429,Perempuan,7.34,Hujan,Rendah,Sore,Sepeda,22,Non-Tunai,2017,5.0,,Tidak,6500,Siti,Jl. Merdeka No.10,089735765708,Selesai,47
+818,Laki-laki,8.28,Bersalju,Rendah,Sore,Mobil,29,Non-Tunai,2018,1.0,,Iya,5000,Agus,Jl. Thamrin No.12,081072839431,Selesai,58
+644,Laki-laki,6.89,Hujan,Sedang,Siang,Sepeda,11,Tunai,2019,1.0,,Iya,6500,Dedi,Jl. Fatmawati No.7,086786496708,Selesai,43
